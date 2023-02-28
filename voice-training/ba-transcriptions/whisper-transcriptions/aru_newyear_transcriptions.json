@@ -1,0 +1,477 @@
+{
+    "AruNewyear_Lobby_1.ogg": {
+        "quote": {
+            "ja": "今年もウチと契約するのね!素晴らしい選択だわ!"
+        }
+    },
+    "AruNewyear_Battle_Covered_1.ogg": {
+        "quote": {
+            "ja": "安全を確保したわ。"
+        }
+    },
+    "AruNewyear_EventShop_End.ogg": {
+        "quote": {
+            "ja": "ふぅ、大騒ぎの年明けもようやく落ち着いたわね。えへへ、でもまだまだここは営業してるわよ。さあ、落ち着いてみていきなさい、先生。"
+        }
+    },
+    "AruNewyear_Cafe_monolog_1.ogg": {
+        "quote": {
+            "ja": "うっ……新年早々、お財布が軽い……"
+        }
+    },
+    "AruNewyear_Season_NewYear.ogg": {
+        "quote": {
+            "ja": "あけましておめでとう、先生!今年は去年よりもっと特別な一年になるわよ!うふふっ"
+        }
+    },
+    "AruNewyear_Battle_TacticalAction_1.ogg": {
+        "quote": {
+            "ja": "移動するわ。"
+        }
+    },
+    "AruNewyear_ExWeapon_Get.ogg": {
+        "quote": {
+            "ja": "これぞ虎に翼ってやつねあ、あってるわよね"
+        }
+    },
+    "AruNewyear_Tactic_Defeat_2.ogg": {
+        "quote": {
+            "ja": "きょ、今日はこんなところで勘弁してあげるわ!"
+        }
+    },
+    "AruNewyear_MemorialLobby_3_2.ogg": {
+        "quote": {
+            "ja": "私たちベンディアの活動は、もう同業者である先生なしでやっていくなんて訳にはいかないんだから!"
+        }
+    },
+    "AruNewyear_Cafe_monolog_2.ogg": {
+        "quote": {
+            "ja": "リーダーとして大事なもの、それは余裕よ!"
+        }
+    },
+    "AruNewyear_CommonSkill.ogg": {
+        "quote": {
+            "ja": "うふふっ"
+        }
+    },
+    "AruNewyear_Season_Birthday.ogg": {
+        "quote": {
+            "ja": "うふふ、今日は特別な日よ、先生!え?知ってる?って?あ、えっと、その……あ、ありがとう……"
+        }
+    },
+    "AruNewyear_LogIn_2.ogg": {
+        "quote": {
+            "ja": "待ってたわよ。さあ、私が先生のことをエスコートしてあげるわ。"
+        }
+    },
+    "AruNewyear_Cafe_monolog_3.ogg": {
+        "quote": {
+            "ja": "え?社長って普通社員にお年玉あげないといけないの?"
+        }
+    },
+    "AruNewyear_Battle_Victory_2.ogg": {
+        "quote": {
+            "ja": "今年も立ち上がりから完璧ね"
+        }
+    },
+    "AruNewyear_Gachaget.ogg": {
+        "quote": {
+            "ja": "ふふふ、今年も私に依頼したいと?まったく、しょうがないわね、先生は。私の活躍、今年もすぐそばで見届けるといいわ。"
+        }
+    },
+    "AruNewyear_Season_Xmas.ogg": {
+        "quote": {
+            "ja": "メリークリスマス!なんでそんな浮かれてるのかって?だって新年までもう少しだもの!"
+        }
+    },
+    "AruNewyear_EventLogin_Season_1.ogg": {
+        "quote": {
+            "ja": "ここまでの騒ぎになるだなんて、はぁ、予想外だったわ。"
+        }
+    },
+    "AruNewyear_EventShop_2.ogg": {
+        "quote": {
+            "ja": "先生、何か気になるものはあった?ん?ベンディア68のみんなが着物で写ってる集合写真?な、ないわよそんなの!"
+        }
+    },
+    "AruNewyear_EventLogin_2.ogg": {
+        "quote": {
+            "ja": "先生の手、冷たいわね。いくら仕事が多くても、ちゃんと休まないとダメよ。"
+        }
+    },
+    "AruNewyear_MemorialLobby_4_1.ogg": {
+        "quote": {
+            "ja": "そうして一緒に仕事をする時間が、これからもずっと、ずっと続いていくといいわね。"
+        }
+    },
+    "AruNewyear_EventShop_Buy_2.ogg": {
+        "quote": {
+            "ja": "あら、それを選ぶとはさすがね。すごくいいものだから、ちゃんと大事にしなさい。"
+        }
+    },
+    "AruNewyear_Battle_Defense_1.ogg": {
+        "quote": {
+            "ja": "ふふっ、無駄よ"
+        }
+    },
+    "AruNewyear_Growup_4.ogg": {
+        "quote": {
+            "ja": "うふふ、こうしてどんどん強くなる私のこと、もっともっと頼ってもいいのよ、センセ。"
+        }
+    },
+    "AruNewyear_Tactic_In_1.ogg": {
+        "quote": {
+            "ja": "私のようなリーダーにふさわしい仕事ね。"
+        }
+    },
+    "AruNewyear_Lobby_4.ogg": {
+        "quote": {
+            "ja": "この着物、綺麗でしょ?美しいでしょ?"
+        }
+    },
+    "AruNewyear_Battle_In_2.ogg": {
+        "quote": {
+            "ja": "さあ、今年も仕事始めといきましょうか!"
+        }
+    },
+    "AruNewyear_EventLobby_3.ogg": {
+        "quote": {
+            "ja": "心配しないで、先生。私たちベンディア68が一緒なら、どんな障害でも乗り越えられるわ。え?計画?いや、そ、そういうのはまだ特にないのだけれど……"
+        }
+    },
+    "AruNewyear_Battle_BuffSelf_1.ogg": {
+        "quote": {
+            "ja": "さあ、行くわよ。"
+        }
+    },
+    "AruNewyear_MemorialLobby_2_1.ogg": {
+        "quote": {
+            "ja": "早起きは三文の得"
+        }
+    },
+    "AruNewyear_Cafe_interaction_1.ogg": {
+        "quote": {
+            "ja": "フフフ……我々ベンリア68の今年のモットーはこれよ!"
+        }
+    },
+    "AruNewyear_ExSkill_Level_1.ogg": {
+        "quote": {
+            "ja": "ご…の…うっせぇ!"
+        }
+    },
+    "AruNewyear_EventShop_Login_2.ogg": {
+        "quote": {
+            "ja": "私たちベンギア68で新年のために色々と準備したの。ゆっくり選ぶといいわ。"
+        }
+    },
+    "AruNewyear_Battle_Shout_1.ogg": {
+        "quote": {
+            "ja": "はぁ!?"
+        }
+    },
+    "AruNewyear_EventLogin_Season_End_1.ogg": {
+        "quote": {
+            "ja": "結局あの回転FXマークワンってなんだったのよ!もう、呆れてこれ以上文句も出てこないわ。"
+        }
+    },
+    "AruNewyear_EventLobby_1.ogg": {
+        "quote": {
+            "ja": "信念を迎えて、ベンディア68の事業の発展を祈ろうと思っただけだったのに……どうしてこんなことに……"
+        }
+    },
+    "AruNewyear_Battle_Buffed_1.ogg": {
+        "quote": {
+            "ja": "うふふ、助かるわ。"
+        }
+    },
+    "AruNewyear_MemorialLobby_1_4.ogg": {
+        "quote": {
+            "ja": "まあ、いつ何時も要件には遅れたりしないようにって、普段から心がけてはいるけどね。社長として。"
+        }
+    },
+    "AruNewyear_EventLogin_Season_End_2.ogg": {
+        "quote": {
+            "ja": "はぁ、まぁもう終わったことにあれこれ言っても仕方ないわね。先生、疲れたしこの後一緒にご飯でもどうかしら。"
+        }
+    },
+    "AruNewyear_ExSkill_3.ogg": {
+        "quote": {
+            "ja": "これぐらい朝飯前…ああ!ちょっ!"
+        }
+    },
+    "AruNewyear_MemorialLobby_2_2.ogg": {
+        "quote": {
+            "ja": "今年のベンディアは去年以上に機敏に、積極的に活動していくわよ!"
+        }
+    },
+    "AruNewyear_MemorialLobby_3_1.ogg": {
+        "quote": {
+            "ja": "もちろん、先生も一緒によ。"
+        }
+    },
+    "AruNewyear_Season_Birthday_Player.ogg": {
+        "quote": {
+            "ja": "私たちベンディアの容易周到さを舐めてもらっては困るわ。え?ど、どういう意味かって?その、た、誕生日おめでとうってことよ!"
+        }
+    },
+    "AruNewyear_EventShop_Buy_1.ogg": {
+        "quote": {
+            "ja": "さすが、見る目があるわね、先生。素晴らしいわ。"
+        }
+    },
+    "AruNewyear_Tactic_In_2.ogg": {
+        "quote": {
+            "ja": "その信頼に応えてあげるわ。"
+        }
+    },
+    "AruNewyear_Battle_In_1.ogg": {
+        "quote": {
+            "ja": "勇猛精進!さあ、始めるわよ!"
+        }
+    },
+    "AruNewyear_ExSkill_2.ogg": {
+        "quote": {
+            "ja": "しっかりと見てなさい。あ、あれ、えええ!?"
+        }
+    },
+    "AruNewyear_Growup_2.ogg": {
+        "quote": {
+            "ja": "うふふ、私の進化がますます発揮されつつあるわね。"
+        }
+    },
+    "AruNewyear_LogIn_1.ogg": {
+        "quote": {
+            "ja": "お帰りなさい、先生。さあ、今日のスケジュールを始めるわよ。"
+        }
+    },
+    "AruNewyear_Growup_1.ogg": {
+        "quote": {
+            "ja": "さすがは私、まだまだ成長の余地があるということね"
+        }
+    },
+    "AruNewyear_Tactic_Victory_1.ogg": {
+        "quote": {
+            "ja": "うふふ、当選の結果ね!"
+        }
+    },
+    "AruNewyear_Battle_Move_1.ogg": {
+        "quote": {
+            "ja": "ほら、グズグズしてる時間はないわよ。"
+        }
+    },
+    "AruNewyear_EventLogin_Season_2.ogg": {
+        "quote": {
+            "ja": "もう、ここまで来たら意地よ。我らベンディア68、こうなったら最後まで付き合ってあげるわ!あ、もちろん先生も協力してくれるわよね。"
+        }
+    },
+    "AruNewyear_EventShop_Buy_3.ogg": {
+        "quote": {
+            "ja": "それを選ぶとは、やるわね先生。それでこそ、私のビジネスパートナーだわ。"
+        }
+    },
+    "AruNewyear_Title.ogg": {
+        "quote": {
+            "ja": "ブルーアーカイブ"
+        }
+    },
+    "AruNewyear_Relationship_Up_3.ogg": {
+        "quote": {
+            "ja": "先生は、私にとっても単なる依頼人じゃなくて……その、その、そう、VIPなのよ!"
+        }
+    },
+    "AruNewyear_Battle_Recovery_1.ogg": {
+        "quote": {
+            "ja": "感謝するわ"
+        }
+    },
+    "AruNewyear_Battle_Shout_3.ogg": {
+        "quote": {
+            "en": "えぇい!"
+        }
+    },
+    "AruNewyear_MemorialLobby_4_2.ogg": {
+        "quote": {
+            "ja": "あ、あくまでも仕事、仕事としての話だから……"
+        }
+    },
+    "AruNewyear_Battle_Shout_2.ogg": {
+        "quote": {
+            "ja": "ひゃっ!"
+        }
+    },
+    "AruNewyear_Battle_Move_2.ogg": {
+        "quote": {
+            "ja": "次行くわよ!"
+        }
+    },
+    "AruNewyear_Season_Halloween.ogg": {
+        "quote": {
+            "ja": "トリック・オア・トリート?そこに座りなさい、先生。ハロウィンよりお正月の方が勝っている理由を教えてあげるから。"
+        }
+    },
+    "AruNewyear_Tactic_Victory_2.ogg": {
+        "quote": {
+            "ja": "どう?これが格の違いってやつよ!"
+        }
+    },
+    "AruNewyear_Relationship_Up_4.ogg": {
+        "quote": {
+            "ja": "いつの間にか先生と、こんなところまで来ていたなんて。今年はもちろん、来年も、よろしく頼むわね、先生。"
+        }
+    },
+    "AruNewyear_Cafe_interaction_2.ogg": {
+        "quote": {
+            "ja": "ベンディア68の社長としての腕前、見せてあげるわ!"
+        }
+    },
+    "AruNewyear_Growup_3.ogg": {
+        "quote": {
+            "ja": "うふふ、私の凄さ、ようやくわかったかしら。"
+        }
+    },
+    "AruNewyear_EventShop_1.ogg": {
+        "quote": {
+            "ja": "ふふ、どう?目移りしちゃうほど素晴らしい品揃えでしょ?これぞ、ベンディア68の底力と言っても過言ではないわ!"
+        }
+    },
+    "AruNewyear_EventLobby_4.ogg": {
+        "quote": {
+            "ja": "ふぅ、なんだか派手になってきたわね。うちの社員たち、怪我とかしてないかしら?"
+        }
+    },
+    "AruNewyear_Cafe_monolog_4.ogg": {
+        "quote": {
+            "ja": "高い着物、緊張するわね。気をつけて歩かないと。"
+        }
+    },
+    "AruNewyear_MemorialLobby_1_3.ogg": {
+        "quote": {
+            "ja": "そんなことないわよ。"
+        }
+    },
+    "AruNewyear_Battle_Retire.ogg": {
+        "quote": {
+            "ja": "こんなのおみくじに書いてなかったのに"
+        }
+    },
+    "AruNewyear_Relationship_Up_1.ogg": {
+        "quote": {
+            "ja": "先生と私、なかなかいいパートナーだと思わない?"
+        }
+    },
+    "AruNewyear_Lobby_3.ogg": {
+        "quote": {
+            "ja": "別に、死って言えば紙のセットの値段は高かったけど…え!? あ、な、なんでもないわよ!"
+        }
+    },
+    "AruNewyear_Formation_In_1.ogg": {
+        "quote": {
+            "ja": "ふふっ、見る目あるじゃない"
+        }
+    },
+    "AruNewyear_Formation_Select.ogg": {
+        "quote": {
+            "ja": "この着物高いんだから、扱いには気を付けなさいよ!"
+        }
+    },
+    "AruNewyear_EventLobby_2.ogg": {
+        "quote": {
+            "ja": "今年は我々ベンリア68がさらに新しく生まれ変わる年よ!さあ、頑張って飛躍の年にしましょう!"
+        }
+    },
+    "AruNewyear_Battle_Damage_1.ogg": {
+        "quote": {
+            "ja": "てやーっ!"
+        }
+    },
+    "AruNewyear_EventShop_Buy_4.ogg": {
+        "quote": {
+            "ja": "いいわよねそれ!私も一つくらい自分で買って事務所に……あ、違うわ! ねだってるわけではなくて!"
+        }
+    },
+    "AruNewyear_Lobby_2.ogg": {
+        "quote": {
+            "ja": "髪の毛、こんなに高く巻いて重くないかって?"
+        }
+    },
+    "AruNewyear_EventShop_Login_1.ogg": {
+        "quote": {
+            "ja": "ようこそ、先生。仕事に向けての準備は完璧よ。"
+        }
+    },
+    "AruNewyear_Battle_Victory_1.ogg": {
+        "quote": {
+            "ja": "今年の運勢は見るまでもなく大吉みたいね"
+        }
+    },
+    "AruNewyear_MemorialLobby_1_2.ogg": {
+        "quote": {
+            "ja": "えっ?私が早いって?"
+        }
+    },
+    "AruNewyear_MemorialLobby_5.ogg": {
+        "quote": {
+            "ja": "だ、だめ……今、自分が何を言ってるのか、自分でもよくわからなくなってる……"
+        }
+    },
+    "AruNewyear_Cafe_monolog_5.ogg": {
+        "quote": {
+            "ja": "疲れたわね。ところで、うちの社員はどこ?"
+        }
+    },
+    "AruNewyear_Battle_Damage_2.ogg": {
+        "quote": {
+            "ja": "な、なんだのよ!"
+        }
+    },
+    "AruNewyear_Formation_In_2.ogg": {
+        "quote": {
+            "ja": "その依頼、受けてあげるわ。"
+        }
+    },
+    "AruNewyear_MemorialLobby_1_1.ogg": {
+        "quote": {
+            "ja": "ふふふ、歩くのが遅いわよ、先生。"
+        }
+    },
+    "AruNewyear_ExSkill_Level_2.ogg": {
+        "quote": {
+            "ja": "うっちょっ!チェスト!"
+        }
+    },
+    "AruNewyear_ExSkill_Level_3.ogg": {
+        "quote": {
+            "ja": "いやっ!んんっと!とぉーっ!"
+        }
+    },
+    "AruNewyear_Relationship_Up_2.ogg": {
+        "quote": {
+            "ja": "うふふ、喜びなさい。これからもずっと一緒にいてあげるわ。"
+        }
+    },
+    "AruNewyear_ExSkill_1.ogg": {
+        "quote": {
+            "ja": "見てなさい私の実力!え?あ、ああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ"
+        }
+    },
+    "AruNewyear_Lobby_5.ogg": {
+        "quote": {
+            "ja": "私の方が、もっと、綺麗?お、お世話よして!"
+        }
+    },
+    "AruNewyear_Battle_Damage_3.ogg": {
+        "quote": {
+            "ja": "ここで引いて、たまるもんですか!"
+        }
+    },
+    "AruNewyear_EventLogin_1.ogg": {
+        "quote": {
+            "ja": "あら、先生、待ってたわよ。新年早々解決しなきゃいけないことが起きたことだし。ふふふ、先生にも手伝ってもらおうかしら。"
+        }
+    },
+    "AruNewyear_Tactic_Defeat_1.ogg": {
+        "quote": {
+            "ja": "はっはー!この服、高かったのにー!"
+        }
+    }
+}

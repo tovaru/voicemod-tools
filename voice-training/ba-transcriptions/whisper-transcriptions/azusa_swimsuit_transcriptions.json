@@ -1,0 +1,402 @@
+{
+    "AzusaSwimsuit_Season_Xmas.ogg": {
+        "quote": {
+            "ja": "こういう日に着るものじゃないと思うけど……だからこそいい……意味がわからない。"
+        }
+    },
+    "AzusaSwimsuit_MemorialLobby_1_2.ogg": {
+        "quote": {
+            "ja": "こんなの初めて……目に映る全部がキラキラして……すごい……"
+        }
+    },
+    "AzusaSwimsuit_Tactic_Victory_2.ogg": {
+        "quote": {
+            "ja": "これは……いろんな意味で気持ちがいい。"
+        }
+    },
+    "AzusaSwimsuit_Lobby_2.ogg": {
+        "quote": {
+            "ja": "正直、自分ではよくわからない。自分が今どんな姿で、いいのか悪いのかも。だから、先生がいいと言ってくれるなら、それでいい。"
+        }
+    },
+    "AzusaSwimsuit_Formation_In_1.ogg": {
+        "quote": {
+            "ja": "うん"
+        }
+    },
+    "AzusaSwimsuit_Battle_Shout_3.ogg": {
+        "quote": {
+            "ja": "不正確に!"
+        }
+    },
+    "AzusaSwimsuit_Battle_Victory_2.ogg": {
+        "quote": {
+            "ja": "任務完了。次の場所へ行こう。"
+        }
+    },
+    "AzusaSwimsuit_Relationship_Up_3.ogg": {
+        "quote": {
+            "ja": "もう少し……もう少しこのまま……この時間が続いてほしい……"
+        }
+    },
+    "AzusaSwimsuit_Season_Birthday_Player.ogg": {
+        "quote": {
+            "ja": "誕生日おめでとう、先生。こんなことを言える余裕がある日々を、一緒に生きられていることは、本当に嬉しく思う。"
+        }
+    },
+    "AzusaSwimsuit_MemorialLobby_1_1.ogg": {
+        "quote": {
+            "ja": "はぁ…"
+        }
+    },
+    "AzusaSwimsuit_Lobby_1.ogg": {
+        "quote": {
+            "ja": "な、なんでそんなじっと見てるんだ?や、やっぱりちょっとこれは派手すぎたか?"
+        }
+    },
+    "AzusaSwimsuit_Title.ogg": {
+        "quote": {
+            "ja": "ブルーワータイム!"
+        }
+    },
+    "AzusaSwimsuit_MemorialLobby_2_2.ogg": {
+        "quote": {
+            "ja": "なんだか、不思議な感覚……"
+        }
+    },
+    "AzusaSwimsuit_Growup_4.ogg": {
+        "quote": {
+            "ja": "うん。悪くない気分だ。"
+        }
+    },
+    "AzusaSwimsuit_MemorialLobby_2_1.ogg": {
+        "quote": {
+            "ja": "何にも邪魔されずに、こうして何もかもを見渡せる場所があったなんて……。"
+        }
+    },
+    "AzusaSwimsuit_Cafe_monolog_5.ogg": {
+        "quote": {
+            "ja": "ちょっと疲れたかもしれない"
+        }
+    },
+    "AzusaSwimsuit_Battle_TacticalAction_1.ogg": {
+        "quote": {
+            "ja": "ふっ"
+        }
+    },
+    "AzusaSwimsuit_Lobby_4.ogg": {
+        "quote": {
+            "ja": "先生といると、いろんなことが経験できる。こんなの、前までは想像もできなかった。"
+        }
+    },
+    "AzusaSwimsuit_ExSkill_3.ogg": {
+        "quote": {
+            "ja": "先生はどこに…あ、ふん"
+        }
+    },
+    "AzusaSwimsuit_Battle_Damage_2.ogg": {
+        "quote": {
+            "ja": "ちっ!"
+        }
+    },
+    "AzusaSwimsuit_MemorialLobby_5_2.ogg": {
+        "quote": {
+            "ja": "先生が……いてくれるからかな?"
+        }
+    },
+    "AzusaSwimsuit_CommonSkill.ogg": {
+        "quote": {
+            "ja": "補給を行う。"
+        }
+    },
+    "AzusaSwimsuit_EventLobby_1.ogg": {
+        "quote": {
+            "ja": "この水着、可愛い…"
+        }
+    },
+    "AzusaSwimsuit_MemorialLobby_4_2.ogg": {
+        "quote": {
+            "ja": "きっとこれは……うん。"
+        }
+    },
+    "AzusaSwimsuit_Battle_Recovery_1.ogg": {
+        "quote": {
+            "ja": "支援感謝する"
+        }
+    },
+    "AzusaSwimsuit_ExSkill_Level_3.ogg": {
+        "quote": {
+            "ja": "目標をづく"
+        }
+    },
+    "AzusaSwimsuit_Tactic_Defeat_2.ogg": {
+        "quote": {
+            "ja": "予想外だった"
+        }
+    },
+    "AzusaSwimsuit_Tactic_Victory_1.ogg": {
+        "quote": {
+            "ja": "こうなるのは、最初からわかりきってたこと。"
+        }
+    },
+    "AzusaSwimsuit_EventLogin_1_1.ogg": {
+        "quote": {
+            "ja": "夏……海……"
+        }
+    },
+    "AzusaSwimsuit_Relationship_Up_4.ogg": {
+        "quote": {
+            "ja": "海は楽しいところ……うん、理解した。"
+        }
+    },
+    "AzusaSwimsuit_Lobby_5.ogg": {
+        "quote": {
+            "ja": "これ、偽装にもならないし、防備としても頼りない。でもそれがいい?どういう意味だ?"
+        }
+    },
+    "AzusaSwimsuit_Battle_Retire.ogg": {
+        "quote": {
+            "ja": "少し浮かれすぎたか"
+        }
+    },
+    "AzusaSwimsuit_Battle_In_2.ogg": {
+        "quote": {
+            "ja": "イニティムベッディ!"
+        }
+    },
+    "AzusaSwimsuit_Tactic_In_1.ogg": {
+        "quote": {
+            "ja": "邪魔は許さない"
+        }
+    },
+    "AzusaSwimsuit_Battle_Move_1.ogg": {
+        "quote": {
+            "ja": "さあ次の位置へ"
+        }
+    },
+    "AzusaSwimsuit_ExWeapon_Get.ogg": {
+        "quote": {
+            "ja": "ちょうどこういうのが欲しかったところだ。ありがとう、後悔はさせない。"
+        }
+    },
+    "AzusaSwimsuit_MemorialLobby_4_1.ogg": {
+        "quote": {
+            "ja": "でも今は、全然不安じゃない。"
+        }
+    },
+    "AzusaSwimsuit_ExSkill_Level_1.ogg": {
+        "quote": {
+            "ja": "逃がさない!"
+        }
+    },
+    "AzusaSwimsuit_ExSkill_2.ogg": {
+        "quote": {
+            "ja": "風が気持ちいい…あ、え、なんで?"
+        }
+    },
+    "AzusaSwimsuit_MemorialLobby_5_1.ogg": {
+        "quote": {
+            "ja": "今の私の視界には……いつもこうやって……"
+        }
+    },
+    "AzusaSwimsuit_Gachaget.ogg": {
+        "quote": {
+            "ja": "知らずあずさ、目標地点の海に到着。すぐに予定の任務を始める。別に、浮かれてるとか、そういうわけじゃない。"
+        }
+    },
+    "AzusaSwimsuit_Lobby_3.ogg": {
+        "quote": {
+            "ja": "ん?何をしてたのか?別に何もしてなかったよ。こういう時間も悪くない。"
+        }
+    },
+    "AzusaSwimsuit_Battle_Shout_2.ogg": {
+        "quote": {
+            "ja": "ふっ"
+        }
+    },
+    "AzusaSwimsuit_Cafe_monolog_2.ogg": {
+        "quote": {
+            "ja": "なんだか視線を感じるような"
+        }
+    },
+    "AzusaSwimsuit_Growup_1.ogg": {
+        "quote": {
+            "ja": "日々のサポートに感謝する。この借りはいつか必ず。"
+        }
+    },
+    "AzusaSwimsuit_Battle_Damage_1.ogg": {
+        "quote": {
+            "ja": "うぅっ"
+        }
+    },
+    "AzusaSwimsuit_MemorialLobby_3_2.ogg": {
+        "quote": {
+            "ja": "隠れる場所もないし、周囲の警戒も大変で……"
+        }
+    },
+    "AzusaSwimsuit_ExSkill_1.ogg": {
+        "quote": {
+            "ja": "広い空と海…あっ…ふぅぅぅ…"
+        }
+    },
+    "AzusaSwimsuit_LogIn_2.ogg": {
+        "quote": {
+            "ja": "できればこのままずっと…あ、あれ?お先生、いつの間に?"
+        }
+    },
+    "AzusaSwimsuit_Season_NewYear.ogg": {
+        "quote": {
+            "ja": "また無事に一年を終えられた。次の夏もまた……いや、期待してるわけじゃ……"
+        }
+    },
+    "AzusaSwimsuit_EventLobby_4.ogg": {
+        "quote": {
+            "ja": "その…や、やっぱりなんでもない。気にしないで。"
+        }
+    },
+    "AzusaSwimsuit_Battle_Victory_1.ogg": {
+        "quote": {
+            "ja": "当然の結果だ。何を着ていても成果には関係ない。"
+        }
+    },
+    "AzusaSwimsuit_Cafe_monolog_3.ogg": {
+        "quote": {
+            "ja": "ふっ"
+        }
+    },
+    "AzusaSwimsuit_Cafe_monolog_4.ogg": {
+        "quote": {
+            "ja": "やっぱりこれ、可愛い"
+        }
+    },
+    "AzusaSwimsuit_EventLogin_2.ogg": {
+        "quote": {
+            "ja": "おかえり先生。やるべきことがまだまだたくさんあるよ。"
+        }
+    },
+    "AzusaSwimsuit_Season_Birthday.ogg": {
+        "quote": {
+            "ja": "あ…誕生日…そっか…ありがとう 先生"
+        }
+    },
+    "AzusaSwimsuit_EventLobby_2.ogg": {
+        "quote": {
+            "ja": "せ、先生……いつから見てた?"
+        }
+    },
+    "AzusaSwimsuit_Battle_Move_2.ogg": {
+        "quote": {
+            "ja": "迅速に行こう!"
+        }
+    },
+    "AzusaSwimsuit_MemorialLobby_3_1.ogg": {
+        "quote": {
+            "ja": "もともとこういう開けた場所は、あまり好きじゃなかった……。"
+        }
+    },
+    "AzusaSwimsuit_Battle_Defense_1.ogg": {
+        "quote": {
+            "ja": "見えてる"
+        }
+    },
+    "AzusaSwimsuit_EventLogin_1_2.ogg": {
+        "quote": {
+            "ja": "あ……な、なんでそんなにこっちを見てるんだ……"
+        }
+    },
+    "AzusaSwimsuit_Growup_3.ogg": {
+        "quote": {
+            "ja": "いつも適切なサポートを助かる"
+        }
+    },
+    "AzusaSwimsuit_ExSkill_Level_2.ogg": {
+        "quote": {
+            "ja": "そこっ!"
+        }
+    },
+    "AzusaSwimsuit_Tactic_In_2.ogg": {
+        "quote": {
+            "ja": "では、突入する"
+        }
+    },
+    "AzusaSwimsuit_Tactic_Defeat_1.ogg": {
+        "quote": {
+            "ja": "油断した、ごめん"
+        }
+    },
+    "AzusaSwimsuit_Battle_BuffSelf_1.ogg": {
+        "quote": {
+            "ja": "よし"
+        }
+    },
+    "AzusaSwimsuit_Battle_Covered_1.ogg": {
+        "quote": {
+            "ja": "ここに隠れる!"
+        }
+    },
+    "AzusaSwimsuit_Growup_2.ogg": {
+        "quote": {
+            "ja": "確実に成長してる"
+        }
+    },
+    "AzusaSwimsuit_Cafe_monolog_1.ogg": {
+        "quote": {
+            "ja": "意外と動きやすいし、悪くない。"
+        }
+    },
+    "AzusaSwimsuit_Battle_Damage_3.ogg": {
+        "quote": {
+            "ja": "これぐらい!"
+        }
+    },
+    "AzusaSwimsuit_Formation_In_2.ogg": {
+        "quote": {
+            "ja": "了解"
+        }
+    },
+    "AzusaSwimsuit_LogIn_1.ogg": {
+        "quote": {
+            "ja": "待ってた。先生、早く行こう。次の任務は何?"
+        }
+    },
+    "AzusaSwimsuit_Formation_Select.ogg": {
+        "quote": {
+            "ja": "ふぅ"
+        }
+    },
+    "AzusaSwimsuit_Battle_Shout_1.ogg": {
+        "quote": {
+            "ja": "はっ!"
+        }
+    },
+    "AzusaSwimsuit_EventLobby_3.ogg": {
+        "quote": {
+            "ja": "み、見ないで……こういうの、慣れてないから……"
+        }
+    },
+    "AzusaSwimsuit_Relationship_Up_1.ogg": {
+        "quote": {
+            "ja": "うん……いい感じだ。先生は?"
+        }
+    },
+    "AzusaSwimsuit_Battle_In_1.ogg": {
+        "quote": {
+            "ja": "邪魔者は排除する"
+        }
+    },
+    "AzusaSwimsuit_Season_Halloween.ogg": {
+        "quote": {
+            "ja": "まあ、みんなが派手な衣装を着てる日だし。私もこうして、少しぐらいはしゃいでもいいかな。"
+        }
+    },
+    "AzusaSwimsuit_Battle_Buffed_1.ogg": {
+        "quote": {
+            "ja": "うん、悪くない"
+        }
+    },
+    "AzusaSwimsuit_Relationship_Up_2.ogg": {
+        "quote": {
+            "ja": "こうやって悩むことがないのは、いいことだ。"
+        }
+    }
+}

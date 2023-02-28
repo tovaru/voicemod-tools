@@ -1,0 +1,362 @@
+{
+    "Kayoko_Lobby_1.ogg": {
+        "quote": {
+            "ja": "なんか用?まぁ、問題があったら解決してあげるけど。"
+        }
+    },
+    "Kayoko_Battle_Defense_1.ogg": {
+        "quote": {
+            "ja": "この程度?"
+        }
+    },
+    "Kayoko_Battle_Victory_2.ogg": {
+        "quote": {
+            "ja": "ウォームアップにもならない"
+        }
+    },
+    "Kayoko_Lobby_2.ogg": {
+        "quote": {
+            "ja": "知ってる。怖い顔だってね。よく誤解されるから。"
+        }
+    },
+    "Kayoko_Battle_Damage_1.ogg": {
+        "quote": {
+            "ja": "くそっ"
+        }
+    },
+    "Kayoko_Cafe_Act_2.ogg": {
+        "quote": {
+            "ja": "まあ、怖い顔だっていうのはわかってる。"
+        }
+    },
+    "Kayoko_Battle_Recovery_1.ogg": {
+        "quote": {
+            "ja": "ありがたくもらう。"
+        }
+    },
+    "Kayoko_Battle_Damage_2.ogg": {
+        "quote": {
+            "ja": "くっ…"
+        }
+    },
+    "Kayoko_LogIn_2.ogg": {
+        "quote": {
+            "ja": "次の依頼が入った。この感じ、なんだか慣れ親しんだやつだね。シャーレは、ベンリアと似ているところがあるように感じる。"
+        }
+    },
+    "Kayoko_Battle_Shout_2.ogg": {
+        "quote": {
+            "ja": "行くよ"
+        }
+    },
+    "Kayoko_MemorialLobby_4_2.ogg": {
+        "quote": {
+            "ja": "でも、一人は寂しいから。"
+        }
+    },
+    "Kayoko_Growup_3.ogg": {
+        "quote": {
+            "ja": "期待に応えられるかどうかわからないけど"
+        }
+    },
+    "Kayoko_ExSkill_3.ogg": {
+        "quote": {
+            "en": "phew"
+        }
+    },
+    "Kayoko_Battle_TSA_2.ogg": {
+        "quote": {
+            "ja": "はぁ…仕方ない…"
+        }
+    },
+    "Kayoko_MemorialLobby_5_1.ogg": {
+        "quote": {
+            "ja": "放っておけなかった。ただそれだけ。"
+        }
+    },
+    "Kayoko_Tactic_Victory_1.ogg": {
+        "quote": {
+            "ja": "お疲れ、先生。"
+        }
+    },
+    "Kayoko_Battle_TSA_1.ogg": {
+        "quote": {
+            "ja": "ああ、こんなことまでさせるなんて。"
+        }
+    },
+    "Kayoko_Tactic_In_2.ogg": {
+        "quote": {
+            "ja": "それくらい、簡単なこと。"
+        }
+    },
+    "Kayoko_Formation_Select.ogg": {
+        "quote": {
+            "en": "Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
+        }
+    },
+    "Kayoko_Season_Birthday.ogg": {
+        "quote": {
+            "ja": "誕生日?あ、えっと、いや、便利屋以外の人にお祝いしてもらったのは初めてで、あ、ありがとう。"
+        }
+    },
+    "Kayoko_Tactic_Defeat_1.ogg": {
+        "quote": {
+            "ja": "ごめん、ちょっと油断した。"
+        }
+    },
+    "Kayoko_MemorialLobby_2.ogg": {
+        "quote": {
+            "ja": "今はいないのかな"
+        }
+    },
+    "Kayoko_Tactic_In_1.ogg": {
+        "quote": {
+            "ja": "行こう。"
+        }
+    },
+    "Kayoko_Growup_4.ogg": {
+        "quote": {
+            "ja": "ありがとう先生。これからも、よろしく。"
+        }
+    },
+    "Kayoko_Lobby_3.ogg": {
+        "quote": {
+            "ja": "かわいい…ふざけないで先生"
+        }
+    },
+    "Kayoko_Tactic_Defeat_2.ogg": {
+        "quote": {
+            "ja": "覚えときなよ"
+        }
+    },
+    "Kayoko_ExSkill_Level_2.ogg": {
+        "quote": {
+            "ja": "これで戦況が変わるはず。"
+        }
+    },
+    "Kayoko_Season_NewYear.ogg": {
+        "quote": {
+            "ja": "新年か今年もよろしくね"
+        }
+    },
+    "Kayoko_ExSkill_Level_3.ogg": {
+        "quote": {
+            "ja": "攻撃のタイミングを狙おう。"
+        }
+    },
+    "Kayoko_ExSkill_2.ogg": {
+        "quote": {
+            "ja": "仕方ないか。"
+        }
+    },
+    "Kayoko_Formation_In_2.ogg": {
+        "quote": {
+            "ja": "依頼なら、やらなきゃね。"
+        }
+    },
+    "Kayoko_Cafe_monolog_2.ogg": {
+        "quote": {
+            "ja": "ふーん、少しは興味が湧いてきた。"
+        }
+    },
+    "Kayoko_CommonSkill.ogg": {
+        "quote": {
+            "ja": "覚悟して。"
+        }
+    },
+    "Kayoko_Lobby_4.ogg": {
+        "quote": {
+            "ja": "先生を手伝う、それが約束だから。"
+        }
+    },
+    "Kayoko_Battle_Move_2.ogg": {
+        "quote": {
+            "ja": "次の目標はあっちだね。移動しよう。"
+        }
+    },
+    "Kayoko_Relationship_Up_3.ogg": {
+        "quote": {
+            "ja": "先生の依頼なら、いつでも歓迎だよ。"
+        }
+    },
+    "Kayoko_Battle_Buffed_1.ogg": {
+        "quote": {
+            "ja": "支援受け取った。"
+        }
+    },
+    "Kayoko_LogIn_1.ogg": {
+        "quote": {
+            "ja": "おかえり先生。じゃあ仕事を始めようか。"
+        }
+    },
+    "Kayoko_Relationship_Up_4.ogg": {
+        "quote": {
+            "ja": "先生と一緒に仕事ができてよかった。"
+        }
+    },
+    "Kayoko_Season_Xmas.ogg": {
+        "quote": {
+            "ja": "メリークリスマス 恋人たちの日かうーん"
+        }
+    },
+    "Kayoko_Battle_Victory_1.ogg": {
+        "quote": {
+            "ja": "相手が悪かったね。"
+        }
+    },
+    "Kayoko_MemorialLobby_5_2.ogg": {
+        "quote": {
+            "ja": "別に深い意味はないから。先生、わかった?"
+        }
+    },
+    "Kayoko_Battle_In_1.ogg": {
+        "quote": {
+            "ja": "落ち着いて、作戦通りにやればいい。"
+        }
+    },
+    "Kayoko_Gachaget.ogg": {
+        "quote": {
+            "ja": "怒ってないから、誤解しないでね先生。顔が怖いってよく言われるんだ。"
+        }
+    },
+    "Kayoko_Battle_Move_1.ogg": {
+        "quote": {
+            "ja": "だいたい片付いたみたいだね。"
+        }
+    },
+    "Kayoko_MemorialLobby_4_1.ogg": {
+        "quote": {
+            "ja": "縛られることも、傷つけられることもないのはいいけど。"
+        }
+    },
+    "Kayoko_Cafe_Act_1.ogg": {
+        "quote": {
+            "ja": "意外と…可愛い?んん?つまらない冗談…だね"
+        }
+    },
+    "Kayoko_Cafe_monolog_1.ogg": {
+        "quote": {
+            "ja": "はぁ…心配…"
+        }
+    },
+    "Kayoko_Season_Halloween.ogg": {
+        "quote": {
+            "ja": "街が眩しくて甘そうなものでいっぱいだ あんまり慣れない空気でも一緒に行ってみようか"
+        }
+    },
+    "Kayoko_Battle_BuffSelf_1.ogg": {
+        "quote": {
+            "ja": "本気で行くよ"
+        }
+    },
+    "Kayoko_Relationship_Up_2.ogg": {
+        "quote": {
+            "ja": "ベンリアは先生を歓迎するはず。たぶん。"
+        }
+    },
+    "Kayoko_Season_Birthday_Player.ogg": {
+        "quote": {
+            "ja": "お誕生日おめでとう先生。うむ、こういう日ってどんな話をすればいいんだ?"
+        }
+    },
+    "Kayoko_MemorialLobby_3_1.ogg": {
+        "quote": {
+            "ja": "雨が降ってたから見に来ただけ。"
+        }
+    },
+    "Kayoko_Battle_Covered_1.ogg": {
+        "quote": {
+            "ja": "遮蔽物発見"
+        }
+    },
+    "Kayoko_ExSkill_Level_1.ogg": {
+        "quote": {
+            "ja": "この木を生かす"
+        }
+    },
+    "Kayoko_MemorialLobby_3_2.ogg": {
+        "quote": {
+            "ja": "たぶん大丈夫。一人でも平気な子だから。"
+        }
+    },
+    "Kayoko_Lobby_5.ogg": {
+        "quote": {
+            "ja": "依頼には最善を尽くすよ。それがプロとしての心構えだから。"
+        }
+    },
+    "Kayoko_MemorialLobby_1.ogg": {
+        "quote": {
+            "ja": "ここまでついてこなくてもよかったのに、先生。"
+        }
+    },
+    "Kayoko_Battle_Damage_3.ogg": {
+        "quote": {
+            "en": "uh"
+        }
+    },
+    "Kayoko_Battle_Retire.ogg": {
+        "quote": {
+            "ja": "えっ"
+        }
+    },
+    "Kayoko_Growup_1.ogg": {
+        "quote": {
+            "ja": "あえて私を選ぶなんて……これが戦略的に正しい選択なら、いいんだけど。"
+        }
+    },
+    "Kayoko_Battle_Shout_1.ogg": {
+        "quote": {
+            "en": "HUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+        }
+    },
+    "Kayoko_Growup_2.ogg": {
+        "quote": {
+            "ja": "準備はこれでオーケー。次は私に任せて。"
+        }
+    },
+    "Kayoko_Battle_In_2.ogg": {
+        "quote": {
+            "ja": "警戒を緩めないで。"
+        }
+    },
+    "Kayoko_ExSkill_1.ogg": {
+        "quote": {
+            "en": "Sigh."
+        }
+    },
+    "Kayoko_Battle_Shout_3.ogg": {
+        "quote": {
+            "ja": "くらって"
+        }
+    },
+    "Kayoko_Battle_TacticalAction_1.ogg": {
+        "quote": {
+            "ja": "フォーメーション変更"
+        }
+    },
+    "Kayoko_Cafe_monolog_3.ogg": {
+        "quote": {
+            "ja": "これからの計画は…まぁいいか。"
+        }
+    },
+    "Kayoko_ExWeapon_Get.ogg": {
+        "quote": {
+            "ja": "先生が決めたことなら異論はないけど…………なんでもない。期待されてる分、頑張るよ。"
+        }
+    },
+    "Kayoko_Tactic_Victory_2.ogg": {
+        "quote": {
+            "ja": "先生の選択が高騰したね。"
+        }
+    },
+    "Kayoko_Relationship_Up_1.ogg": {
+        "quote": {
+            "ja": "問題があったらいつでも訪ねてくるといい。"
+        }
+    },
+    "Kayoko_Formation_In_1.ogg": {
+        "quote": {
+            "ja": "今行く"
+        }
+    }
+}

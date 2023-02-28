@@ -1,0 +1,382 @@
+{
+    "Aru_Battle_Damage_2.ogg": {
+        "quote": {
+            "en": "Heh heh heh!"
+        }
+    },
+    "Aru_Gachaget.ogg": {
+        "quote": {
+            "ja": "ふふっ、この私に協力したいと?まあ、断りはしないけど。私を雇うなら高くつくわよ、先生。"
+        }
+    },
+    "Aru_Battle_TSA_1.ogg": {
+        "quote": {
+            "ja": "うふふ、高いお金を払って契約した業務用トラックなんだから!"
+        }
+    },
+    "Aru_ExSkill_1.ogg": {
+        "quote": {
+            "ja": "うむ、ターゲット発見"
+        }
+    },
+    "Aru_MemorialLobby_4_2.ogg": {
+        "quote": {
+            "ja": "お寿司の値段聞いてんじゃないわよ"
+        }
+    },
+    "Aru_Battle_Shout_2.ogg": {
+        "quote": {
+            "ja": "いやっ!"
+        }
+    },
+    "Aru_LogIn_1.ogg": {
+        "quote": {
+            "ja": "先生いらっしゃい 今日もこの私が先生を敬語してあげるわ"
+        }
+    },
+    "Aru_Battle_TacticalAction_1.ogg": {
+        "quote": {
+            "ja": "移動するわ"
+        }
+    },
+    "Aru_MemorialLobby_1_1.ogg": {
+        "quote": {
+            "ja": "うふふ、私の働く姿に見とれちゃ困るわよ"
+        }
+    },
+    "Aru_Lobby_3.ogg": {
+        "quote": {
+            "ja": "え?違うの?"
+        }
+    },
+    "Aru_Battle_Move_2.ogg": {
+        "quote": {
+            "ja": "さあ、移動するわよ。"
+        }
+    },
+    "Aru_Tactic_Defeat_2.ogg": {
+        "quote": {
+            "ja": "これで終わりだと思わないことね!"
+        }
+    },
+    "Aru_MemorialLobby_3_1.ogg": {
+        "quote": {
+            "ja": "ええ、はい。はい、わかります。"
+        }
+    },
+    "Aru_MemorialLobby_5_1.ogg": {
+        "quote": {
+            "ja": "ああ、はい。確認いたしました。なるほど。"
+        }
+    },
+    "Aru_Tactic_In_2.ogg": {
+        "quote": {
+            "ja": "リーダー!社長であるこの私にふさわしいポジションね!"
+        }
+    },
+    "Aru_Battle_Buffed_1.ogg": {
+        "quote": {
+            "ja": "これが権力よ"
+        }
+    },
+    "Aru_Season_Xmas.ogg": {
+        "quote": {
+            "ja": "クリスマスか そういえば直近で受けた依頼はサンタクロースの排除だったわね"
+        }
+    },
+    "Aru_Battle_Defense_1.ogg": {
+        "quote": {
+            "ja": "うふふ、残念ね"
+        }
+    },
+    "Aru_Lobby_5.ogg": {
+        "quote": {
+            "ja": "そ、そんな約束なかった? あ、あはは、そうだったわね。私ったら……"
+        }
+    },
+    "Aru_ExSkill_Level_1.ogg": {
+        "quote": {
+            "ja": "ぶちのめすわ"
+        }
+    },
+    "Aru_Battle_Shout_3.ogg": {
+        "quote": {
+            "ja": "えいっ!"
+        }
+    },
+    "Aru_Formation_Select.ogg": {
+        "quote": {
+            "ja": "そんなに望むなら助けてあげてもいいわ"
+        }
+    },
+    "Aru_Relationship_Up_3.ogg": {
+        "quote": {
+            "ja": "先生の依頼なら、何でも…や、やってあげるわ!"
+        }
+    },
+    "Aru_Battle_Shout_1.ogg": {
+        "quote": {
+            "ja": "はぁっ!?"
+        }
+    },
+    "Aru_Season_Birthday.ogg": {
+        "quote": {
+            "ja": "ちゃんと覚えておいて 今日はこの私の誕生日なのいつかキボトスの祝日になるんだから"
+        }
+    },
+    "Aru_ExSkill_Level_3.ogg": {
+        "quote": {
+            "ja": "どう?かっこいいでしょ"
+        }
+    },
+    "Aru_Battle_Retire.ogg": {
+        "quote": {
+            "ja": "依頼は必ず遂行しなきゃ"
+        }
+    },
+    "Aru_CommonSkill.ogg": {
+        "quote": {
+            "ja": "覚悟しなさい。"
+        }
+    },
+    "Aru_Lobby_2.ogg": {
+        "quote": {
+            "ja": "アッハッハッ、この私の能力を見たいのね!"
+        }
+    },
+    "Aru_Growup_1.ogg": {
+        "quote": {
+            "ja": "さすがは私ね"
+        }
+    },
+    "Aru_MemorialLobby_3_2.ogg": {
+        "quote": {
+            "ja": "早く賭け間違いだって気づいて切りなさいよ。話長いわよ。"
+        }
+    },
+    "Aru_MemorialLobby_6.ogg": {
+        "quote": {
+            "ja": "ん?間違い電話じゃないのかって?な、何言ってるの?ちゃんと仕事中よ!"
+        }
+    },
+    "Aru_LogIn_2.ogg": {
+        "quote": {
+            "ja": "待ってたわ。どんな依頼でも、ベンリアは必ず遂行するから。"
+        }
+    },
+    "Aru_MemorialLobby_2_2.ogg": {
+        "quote": {
+            "ja": "配達、しないに決まってるでしょ"
+        }
+    },
+    "Aru_ExWeapon_Get.ogg": {
+        "quote": {
+            "ja": "ふふふ、これなら何だろうと一発でおしまいね。"
+        }
+    },
+    "Aru_Tactic_Defeat_1.ogg": {
+        "quote": {
+            "ja": "くっ……覚えてなさい!"
+        }
+    },
+    "Aru_Formation_In_2.ogg": {
+        "quote": {
+            "ja": "任せなさい"
+        }
+    },
+    "Aru_Battle_In_2.ogg": {
+        "quote": {
+            "ja": "依頼を始める!"
+        }
+    },
+    "Aru_Season_Halloween.ogg": {
+        "quote": {
+            "ja": "ううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううううう"
+        }
+    },
+    "Aru_Battle_Damage_3.ogg": {
+        "quote": {
+            "ja": "これは……違う!"
+        }
+    },
+    "Aru_Growup_4.ogg": {
+        "quote": {
+            "ja": "うふふふ、また強くなったわ!"
+        }
+    },
+    "Aru_Lobby_1.ogg": {
+        "quote": {
+            "ja": "先生とのコラボレーション、期待してるわよ。"
+        }
+    },
+    "Aru_Season_Birthday_Player.ogg": {
+        "quote": {
+            "ja": "ふふふ、先生、我が弁理屋の調査に隙はない。お誕生日、おめでとう。え?昨日だったの?ご、ごめん…って、そんなわけないでしょ?今日であってるわよ!"
+        }
+    },
+    "Aru_Tactic_Victory_1.ogg": {
+        "quote": {
+            "ja": "これくらい簡単よ!"
+        }
+    },
+    "Aru_Battle_Victory_2.ogg": {
+        "quote": {
+            "ja": "えへへ、依頼解決よ!"
+        }
+    },
+    "Aru_ExSkill_3.ogg": {
+        "quote": {
+            "ja": "一書きで十分よ"
+        }
+    },
+    "Aru_Formation_In_1.ogg": {
+        "quote": {
+            "ja": "えへへ、素晴らしい選択ね"
+        }
+    },
+    "Aru_Battle_In_1.ogg": {
+        "quote": {
+            "ja": "さあ、我が職員たち、仕事の時間よ"
+        }
+    },
+    "Aru_MemorialLobby_0.ogg": {
+        "quote": {
+            "ja": "はい、ベンリア68のリクハチマです。"
+        }
+    },
+    "Aru_Season_NewYear.ogg": {
+        "quote": {
+            "ja": "あけましておめでとう。まあ、今年もどんな依頼であろうと、最高の結果にしてみせるから。"
+        }
+    },
+    "Aru_Battle_TSA_2.ogg": {
+        "quote": {
+            "ja": "さあ、作業を始めるわよ!"
+        }
+    },
+    "Aru_Battle_Damage_1.ogg": {
+        "quote": {
+            "ja": "はぁっ!"
+        }
+    },
+    "Aru_Battle_Victory_1.ogg": {
+        "quote": {
+            "ja": "便利屋に任せておけば完璧なんだから!"
+        }
+    },
+    "Aru_Cafe_Act_2.ogg": {
+        "quote": {
+            "ja": "ここの家賃、どれぐらいかしら?"
+        }
+    },
+    "Aru_MemorialLobby_2_1.ogg": {
+        "quote": {
+            "ja": "うん、困りましたね。うちは今スケジュールがキツキツでして。"
+        }
+    },
+    "Aru_Battle_Move_1.ogg": {
+        "quote": {
+            "ja": "ほら、見たでしょ? 依頼は確実に遂行するんだから!"
+        }
+    },
+    "Aru_ExSkill_2.ogg": {
+        "quote": {
+            "ja": "片手でも命中させられるわ"
+        }
+    },
+    "Aru_Cafe_Act_3.ogg": {
+        "quote": {
+            "ja": "フフフ、ベンディアの未来は明るいわ。"
+        }
+    },
+    "Aru_Lobby_4.ogg": {
+        "quote": {
+            "ja": "今日は遅くまで残業?じゃあ、今夜のデートはどうするつもり?"
+        }
+    },
+    "Aru_Battle_Recovery_1.ogg": {
+        "quote": {
+            "ja": "うふふ、これがVIPのもてなしってやつね"
+        }
+    },
+    "Aru_Tactic_In_1.ogg": {
+        "quote": {
+            "ja": "企業と招待を率いるのは、私の専門よ。"
+        }
+    },
+    "Aru_Relationship_Up_2.ogg": {
+        "quote": {
+            "ja": "顧客とここまで近くなるのは…あ、ち、違う!先生は常連だから大丈夫!"
+        }
+    },
+    "Aru_Growup_3.ogg": {
+        "quote": {
+            "ja": "私の進化をよく見ておきなさい"
+        }
+    },
+    "Aru_Relationship_Up_4.ogg": {
+        "quote": {
+            "ja": "ありがとう、先生。先生のおかげで、本当に素敵な私になれたわ。"
+        }
+    },
+    "Aru_Relationship_Up_1.ogg": {
+        "quote": {
+            "ja": "うふん、先生は運がいいわ。こう見えて私、結構大物なの。"
+        }
+    },
+    "Aru_Battle_Covered_1.ogg": {
+        "quote": {
+            "ja": "攻撃位置を確保。"
+        }
+    },
+    "Aru_Growup_2.ogg": {
+        "quote": {
+            "ja": "うふふ、よく見ておくことね。これからの私を。"
+        }
+    },
+    "Aru_Tactic_Victory_2.ogg": {
+        "quote": {
+            "ja": "どう先生 格が違うってこういうこと"
+        }
+    },
+    "Aru_Cafe_Act_5.ogg": {
+        "quote": {
+            "ja": "我が職員たちと、一度はこんなところで打ち上げしなくちゃね。"
+        }
+    },
+    "Aru_MemorialLobby_1_2.ogg": {
+        "quote": {
+            "ja": "って、賭け間違いじゃないの? ウチはお寿司屋さんじゃないんだけど?"
+        }
+    },
+    "Aru_MemorialLobby_4_1.ogg": {
+        "quote": {
+            "ja": "うーん、難しい問題ですね。今期の外形上では近頃の近利の問題で……。"
+        }
+    },
+    "Aru_Cafe_Act_4.ogg": {
+        "quote": {
+            "ja": "はぁ、中学校の頃を思い出すわね。"
+        }
+    },
+    "Aru_ExSkill_Level_2.ogg": {
+        "quote": {
+            "ja": "アッハッハッ! 命中よ!"
+        }
+    },
+    "Aru_MemorialLobby_5_2.ogg": {
+        "quote": {
+            "ja": "あなたのお寿司の好みなんか聞いてないわよ。なんなの、この人。"
+        }
+    },
+    "Aru_Cafe_Act_1.ogg": {
+        "quote": {
+            "ja": "我が事務所もこんな風に飾ったら……"
+        }
+    },
+    "Aru_Battle_BuffSelf_1.ogg": {
+        "quote": {
+            "ja": "行くわよ!"
+        }
+    }
+}

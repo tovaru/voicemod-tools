@@ -1,0 +1,382 @@
+{
+    "Haruna_Battle_Victory_2.ogg": {
+        "quote": {
+            "ja": "んんっ 勝利後の大役は特別ですよね"
+        }
+    },
+    "Haruna_Battle_Shout_2.ogg": {
+        "quote": {
+            "ja": "はぁっ!?"
+        }
+    },
+    "Haruna_Battle_Buffed_1.ogg": {
+        "quote": {
+            "ja": "あら、ありがとうございます。"
+        }
+    },
+    "Haruna_Battle_Recovery_1.ogg": {
+        "quote": {
+            "ja": "恐縮ですわ"
+        }
+    },
+    "Haruna_LogIn_3.ogg": {
+        "quote": {
+            "ja": "あら、ごきげんよう"
+        }
+    },
+    "Haruna_Battle_Move_2.ogg": {
+        "quote": {
+            "ja": "前進いたしますわ"
+        }
+    },
+    "Haruna_Battle_TacticalAction_1.ogg": {
+        "quote": {
+            "ja": "ふぅん?"
+        }
+    },
+    "Haruna_Cafe_monolog_2.ogg": {
+        "quote": {
+            "ja": "美味しいとは、一体何なのでしょう。私たちにとって、それはどのような意味なのかしら。"
+        }
+    },
+    "Haruna_Season_Birthday_Player.ogg": {
+        "quote": {
+            "ja": "お誕生日おめでとうございます先生 誕生日にはやはりケーキです新鮮な生クリームをのせてもいいですし濃厚なチーズをたくさんのせても新鮮なフルーツ をのせてもいいですよね"
+        }
+    },
+    "Haruna_Battle_In_2.ogg": {
+        "quote": {
+            "ja": "あらま、お出ましですわね。盛大にお出迎えして差し上げましょう。"
+        }
+    },
+    "Haruna_Battle_In_1.ogg": {
+        "quote": {
+            "ja": "皆様、ご健闘をお祈りいたしますわ。"
+        }
+    },
+    "Haruna_Tactic_In_1.ogg": {
+        "quote": {
+            "ja": "少しだけはしゃいでみましょうか"
+        }
+    },
+    "Haruna_MemorialLobby_1_2.ogg": {
+        "quote": {
+            "ja": "たい焼きもこんなにたくさん買ってしまいましたし"
+        }
+    },
+    "Haruna_Cafe_Act_2.ogg": {
+        "quote": {
+            "ja": "食べ物に関して気になることが終わりでしたら、いつでも私をお尋ねください。"
+        }
+    },
+    "Haruna_Tactic_Defeat_1.ogg": {
+        "quote": {
+            "ja": "美食の道とは、こんなにも厳しいものなのですのね。"
+        }
+    },
+    "Haruna_Growup_2.ogg": {
+        "quote": {
+            "ja": "あら、私のためにここまでしてくださるなんて。"
+        }
+    },
+    "Haruna_Battle_Damage_2.ogg": {
+        "quote": {
+            "ja": "はぁっ!?"
+        }
+    },
+    "Haruna_MemorialLobby_5_2.ogg": {
+        "quote": {
+            "ja": "いいえ、暖かいですわよ、本当に"
+        }
+    },
+    "Haruna_Formation_In_2.ogg": {
+        "quote": {
+            "ja": "よろしくってよ。お任せください。"
+        }
+    },
+    "Haruna_Lobby_4.ogg": {
+        "quote": {
+            "ja": "ただ、私が一番好きなのは"
+        }
+    },
+    "Haruna_Battle_Shout_1.ogg": {
+        "quote": {
+            "en": "Yep!"
+        }
+    },
+    "Haruna_CommonSkill.ogg": {
+        "quote": {
+            "ja": "そちらですね"
+        }
+    },
+    "Haruna_MemorialLobby_1_3.ogg": {
+        "quote": {
+            "ja": "問屋木だと少し質素じゃないか、ですって?"
+        }
+    },
+    "Haruna_Battle_Victory_1.ogg": {
+        "quote": {
+            "ja": "うん、うんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんん"
+        }
+    },
+    "Haruna_Battle_Damage_3.ogg": {
+        "quote": {
+            "en": "You"
+        }
+    },
+    "Haruna_Growup_1.ogg": {
+        "quote": {
+            "ja": "あら、これは新しいお味ですわね"
+        }
+    },
+    "Haruna_Lobby_2.ogg": {
+        "quote": {
+            "ja": "かわいい?な、な、なんのことかしら?"
+        }
+    },
+    "Haruna_ExSkill_1.ogg": {
+        "quote": {
+            "ja": "うふふ、参ります"
+        }
+    },
+    "Haruna_MemorialLobby_1_4.ogg": {
+        "quote": {
+            "ja": "いいえ、私にとっては最高に贅沢な瞬間ですわ。"
+        }
+    },
+    "Haruna_Relationship_Up_1.ogg": {
+        "quote": {
+            "ja": "もう少し、一緒にいていただきたいです。"
+        }
+    },
+    "Haruna_Battle_BuffSelf_1.ogg": {
+        "quote": {
+            "ja": "これは如何だ?"
+        }
+    },
+    "Haruna_Cafe_monolog_1.ogg": {
+        "quote": {
+            "ja": "美食への道のりはやはり険しいものですわね。"
+        }
+    },
+    "Haruna_MemorialLobby_2_2.ogg": {
+        "quote": {
+            "ja": "いいえ、あーんってなくては"
+        }
+    },
+    "Haruna_Lobby_3.ogg": {
+        "quote": {
+            "ja": "高級料理店はお好きか、ですって?うふふ、嫌いではありませんわ"
+        }
+    },
+    "Haruna_Growup_3.ogg": {
+        "quote": {
+            "ja": "たまにはこういうのも悪くありませんわね。先生、私の成長、きちんと見守っていてくださいね。"
+        }
+    },
+    "Haruna_Cafe_monolog_3.ogg": {
+        "quote": {
+            "ja": "美味しい それは尊いものですよね"
+        }
+    },
+    "Haruna_Cafe_Act_1.ogg": {
+        "quote": {
+            "ja": "究極の味を追求させていただくため、今日も一生懸命に。"
+        }
+    },
+    "Haruna_MemorialLobby_2_1.ogg": {
+        "quote": {
+            "ja": "では先生、これを差し上げますわ"
+        }
+    },
+    "Haruna_Relationship_Up_2.ogg": {
+        "quote": {
+            "ja": "美味しいものをいただきたいですよね できればご一緒に"
+        }
+    },
+    "Haruna_ExSkill_Level_3.ogg": {
+        "quote": {
+            "ja": "突き抜ける優雅さで"
+        }
+    },
+    "Haruna_ExSkill_2.ogg": {
+        "quote": {
+            "ja": "優雅に参りましょうか"
+        }
+    },
+    "Haruna_Gachaget.ogg": {
+        "quote": {
+            "ja": "美食研究会へようこそ!究極の味を求めて、共に冒険に出かけましょうか!"
+        }
+    },
+    "Haruna_ExSkill_3.ogg": {
+        "quote": {
+            "ja": "さあ、準備はよろしくって?"
+        }
+    },
+    "Haruna_Season_Xmas.ogg": {
+        "quote": {
+            "ja": "メリークリスマス!こんな日にはブッシュドノエルやシナモンのクッキーがいいですわね!ですがキャンドルを灯して迎え合っていただくものでしたら、どんなものでも美味しそうですわ!うふふ"
+        }
+    },
+    "Haruna_Battle_Defense_1.ogg": {
+        "quote": {
+            "ja": "ふふっ、無駄ですわ"
+        }
+    },
+    "Haruna_MemorialLobby_3_1.ogg": {
+        "quote": {
+            "ja": "一番好きなお方と一緒に 一番好きな食べ物をいただく"
+        }
+    },
+    "Haruna_Lobby_6.ogg": {
+        "quote": {
+            "ja": "たい焼きですの? 私の一番お気に入りの食べ物ですわ!うふふっ"
+        }
+    },
+    "Haruna_Lobby_1.ogg": {
+        "quote": {
+            "ja": "それは私も同じですって"
+        }
+    },
+    "Haruna_Lobby_5.ogg": {
+        "quote": {
+            "ja": "愛するお方と一緒にいただく食事です"
+        }
+    },
+    "Haruna_Formation_Select.ogg": {
+        "quote": {
+            "en": "Oh"
+        }
+    },
+    "Haruna_Battle_Shout_3.ogg": {
+        "quote": {
+            "ja": "参ります"
+        }
+    },
+    "Haruna_Battle_Covered_1.ogg": {
+        "quote": {
+            "ja": "ごめんやすばせ"
+        }
+    },
+    "Haruna_ExSkill_Level_1.ogg": {
+        "quote": {
+            "ja": "お覚悟はできていらっしゃるのかしら?"
+        }
+    },
+    "Haruna_Battle_Move_1.ogg": {
+        "quote": {
+            "ja": "参りますわよ"
+        }
+    },
+    "Haruna_MemorialLobby_1_1.ogg": {
+        "quote": {
+            "ja": "あふっ、こうやって一緒に帰宅できるだなんて。"
+        }
+    },
+    "Haruna_ExWeapon_Get.ogg": {
+        "quote": {
+            "ja": "美食家の道は修行者の道と同じですわね。究極というものを追求し、探究し、そして前に進んでいくこと。うふふ、これで私もまた少し前に進めそうですわ。"
+        }
+    },
+    "Haruna_LogIn_1.ogg": {
+        "quote": {
+            "ja": "何度お目にかかっても飽きないお顔をされてますわね"
+        }
+    },
+    "Haruna_Season_Halloween.ogg": {
+        "quote": {
+            "ja": "木没で一番美味しい飴についてご存知かしら?ご存知ないですの?私は存じておりますそれは先生が持っていらっしゃる飴ですわ私にくださる?"
+        }
+    },
+    "Haruna_Battle_Damage_1.ogg": {
+        "quote": {
+            "en": "Tch!"
+        }
+    },
+    "Haruna_MemorialLobby_5_1.ogg": {
+        "quote": {
+            "ja": "寒くないか、ですって?"
+        }
+    },
+    "Haruna_Season_Birthday.ogg": {
+        "quote": {
+            "ja": "あら、私の誕生日を覚えててくださったんですね。うれしいですわ。今日はおしゃれなお店で、美味しいものを一緒にいただけるのでしょうか。楽しみにしておりますわね。"
+        }
+    },
+    "Haruna_Tactic_Victory_2.ogg": {
+        "quote": {
+            "ja": "あら、勝利ですわねうふふ"
+        }
+    },
+    "Haruna_Season_NewYear.ogg": {
+        "quote": {
+            "ja": "あけましておめでとうございます先生 お正月といえばやはりお雑煮ですよねー お餅は焼いてもいいですしそのまま入れてもいいですしじゃがいもと鶏団子を入れて煮込んだ後 骨髪の中でいただくそのお味といったら"
+        }
+    },
+    "Haruna_Tactic_Defeat_2.ogg": {
+        "quote": {
+            "ja": "困りましたわね ここでこんな困難に遭遇するだなんて"
+        }
+    },
+    "Haruna_MemorialLobby_4_2.ogg": {
+        "quote": {
+            "ja": "うふふ、そのような反応も嫌いではありませんが。"
+        }
+    },
+    "Haruna_Formation_In_1.ogg": {
+        "quote": {
+            "ja": "私の出番ですわね"
+        }
+    },
+    "Haruna_ExSkill_Level_2.ogg": {
+        "quote": {
+            "ja": "スコビル地一千万級の激辛です!"
+        }
+    },
+    "Haruna_Growup_4.ogg": {
+        "quote": {
+            "ja": "うふふ、感謝いたしますわ"
+        }
+    },
+    "Haruna_Relationship_Up_4.ogg": {
+        "quote": {
+            "ja": "先生とのお食事はいつも特別ですな 味とは関係なくですわ"
+        }
+    },
+    "Haruna_Battle_Retire.ogg": {
+        "quote": {
+            "ja": "お恥ずかしい姿を……"
+        }
+    },
+    "Haruna_Tactic_In_2.ogg": {
+        "quote": {
+            "ja": "お相手して差し上げます"
+        }
+    },
+    "Haruna_LogIn_2.ogg": {
+        "quote": {
+            "ja": "あら、褒め言葉ですわよ。 好意的な意味ですわ。うふふ。"
+        }
+    },
+    "Haruna_MemorialLobby_3_2.ogg": {
+        "quote": {
+            "ja": "これぞまさしく"
+        }
+    },
+    "Haruna_Tactic_Victory_1.ogg": {
+        "quote": {
+            "ja": "宿場のパーティーを開こうと思うのですが、ご一緒しませんか?"
+        }
+    },
+    "Haruna_Relationship_Up_3.ogg": {
+        "quote": {
+            "ja": "先生と一緒でしたら、夢に見た至高の味を、見つけられるかもしれませんわね。"
+        }
+    },
+    "Haruna_MemorialLobby_4_1.ogg": {
+        "quote": {
+            "ja": "ん? その表情、どうかなさいまして?"
+        }
+    }
+}

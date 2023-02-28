@@ -1,0 +1,12 @@
+choke05
+choke06
+cough02
+cough03
+cough04
+fall01
+fall02
+fall03
+fall04
+grabbedbysmoker01e
+laughter13
+worldgeneric03

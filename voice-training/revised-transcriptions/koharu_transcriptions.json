@@ -1,0 +1,367 @@
+{
+  "Koharu_Battle_Buffed_1.ogg": {
+    "quote": {
+      "ja": "OK!"
+    }
+  },
+  "Koharu_Battle_BuffSelf_1.ogg": {
+    "quote": {
+      "ja": "行くわよ"
+    }
+  },
+  "Koharu_Battle_Covered_1.ogg": {
+    "quote": {
+      "ja": "射兵物確保!"
+    }
+  },
+  "Koharu_Battle_Damage_1.ogg": {
+    "quote": {
+      "ja": "キャア!"
+    }
+  },
+  "Koharu_Battle_Damage_2.ogg": {
+    "quote": {
+      "ja": "痛い…"
+    }
+  },
+  "Koharu_Battle_Damage_3.ogg": {
+    "quote": {
+      "ja": "うっ…!"
+    }
+  },
+  "Koharu_Battle_Defense_1.ogg": {
+    "quote": {
+      "ja": "こ、これぐらいなら!"
+    }
+  },
+  "Koharu_Battle_In_1.ogg": {
+    "quote": {
+      "ja": "さあ、行くわよ!"
+    }
+  },
+  "Koharu_Battle_In_2.ogg": {
+    "quote": {
+      "ja": "出発!"
+    }
+  },
+  "Koharu_Battle_Move_1.ogg": {
+    "quote": {
+      "ja": "略称だったわね"
+    }
+  },
+  "Koharu_Battle_Move_2.ogg": {
+    "quote": {
+      "ja": "ほら、私の活躍のおかげよ"
+    }
+  },
+  "Koharu_Battle_Recovery_1.ogg": {
+    "quote": {
+      "ja": "まあ……ありがと…"
+    }
+  },
+  "Koharu_Battle_Retire.ogg": {
+    "quote": {
+      "ja": "うーん、まだ100%の実力を見せてないのに"
+    }
+  },
+  "Koharu_Battle_Shout_1.ogg": {
+    "quote": {
+      "ja": "いやっ!"
+    }
+  },
+  "Koharu_Battle_Shout_2.ogg": {
+    "quote": {
+      "ja": "はっ!"
+    }
+  },
+  "Koharu_Battle_Shout_3.ogg": {
+    "quote": {
+      "ja": "やぁっ!"
+    }
+  },
+  "Koharu_Battle_TacticalAction_1.ogg": {
+    "quote": {
+      "ja": "今行くわ!"
+    }
+  },
+  "Koharu_Battle_TSA_1.ogg": {
+    "quote": {
+      "ja": "もともと乗ってたのとは違うけど、しょうがない!"
+    }
+  },
+  "Koharu_Battle_TSA_2.ogg": {
+    "quote": {
+      "ja": "これもそんなに悪くないから、行くわよ!"
+    }
+  },
+  "Koharu_Battle_Victory_1.ogg": {
+    "quote": {
+      "ja": "これぐらい、大したことじゃないし"
+    }
+  },
+  "Koharu_Battle_Victory_2.ogg": {
+    "quote": {
+      "ja": "これで、いいのよね?"
+    }
+  },
+  "Koharu_Cafe_Act_1.ogg": {
+    "quote": {
+      "ja": "エッチなものとかがあったら、全部没収するからな"
+    }
+  },
+  "Koharu_Cafe_Act_2.ogg": {
+    "quote": {
+      "ja": "みんな楽しそうだな…"
+    }
+  },
+  "Koharu_Cafe_monolog_1.ogg": {
+    "quote": {
+      "ja": "うぅ…リア充め…"
+    }
+  },
+  "Koharu_Cafe_monolog_2.ogg": {
+    "quote": {
+      "ja": "あうっ…"
+    }
+  },
+  "Koharu_Cafe_monolog_3.ogg": {
+    "quote": {
+      "ja": "な、なれあうつもりはないから"
+    }
+  },
+  "Koharu_CommonSkill.ogg": {
+    "quote": {
+      "ja": "待ってて!"
+    }
+  },
+  "Koharu_ExSkill_1.ogg": {
+    "quote": {
+      "ja": "えっと…あれ?!"
+    }
+  },
+  "Koharu_ExSkill_2.ogg": {
+    "quote": {
+      "ja": "あれ…?アッー!?ギャア!"
+    }
+  },
+  "Koharu_ExSkill_3.ogg": {
+    "quote": {
+      "ja": "うーん…ギャアッ!"
+    }
+  },
+  "Koharu_ExSkill_Level_1.ogg": {
+    "quote": {
+      "ja": "こ、これは没収したやつだから!"
+    }
+  },
+  "Koharu_ExSkill_Level_2.ogg": {
+    "quote": {
+      "ja": "私のじゃないから、誤解しないで!"
+    }
+  },
+  "Koharu_ExSkill_Level_3.ogg": {
+    "quote": {
+      "ja": "なんで持ってるのかって?う、うるさい!"
+    }
+  },
+  "Koharu_ExWeapon_Get.ogg": {
+    "quote": {
+      "ja": "私もここまで来られた。先生、見てる?ここからがスタートだから、これからも見守っててよな。"
+    }
+  },
+  "Koharu_Formation_In_1.ogg": {
+    "quote": {
+      "ja": "はぁ…"
+    }
+  },
+  "Koharu_Formation_In_2.ogg": {
+    "quote": {
+      "ja": "仕方ないなぁ"
+    }
+  },
+  "Koharu_Formation_Select.ogg": {
+    "quote": {
+      "ja": "な、なにするつもり!?"
+    }
+  },
+  "Koharu_Gachaget.ogg": {
+    "quote": {
+      "ja": "下絵小春…え、言っとくけど、ここに長くいるつもりはないから!"
+    }
+  },
+  "Koharu_Growup_1.ogg": {
+    "quote": {
+      "ja": "こ、ここまでしてくれなくてもいいのに…"
+    }
+  },
+  "Koharu_Growup_2.ogg": {
+    "quote": {
+      "ja": "成長を見守ってるったなんて、なんかやらしい"
+    }
+  },
+  "Koharu_Growup_3.ogg": {
+    "quote": {
+      "ja": "ふふっ、ほら、私もこんなに成長できるのよ"
+    }
+  },
+  "Koharu_Growup_4.ogg": {
+    "quote": {
+      "ja": "ふふっ、悪くない結果でしょ?"
+    }
+  },
+  "Koharu_Lobby_1.ogg": {
+    "quote": {
+      "ja": "わ、私の前で、そこをフリをとか許さないから!"
+    }
+  },
+  "Koharu_Lobby_2.ogg": {
+    "quote": {
+      "ja": "成績のことは言わないで…!と、努力はしてるもん"
+    }
+  },
+  "Koharu_Lobby_3.ogg": {
+    "quote": {
+      "ja": "頑張って、早く補修授業部を卒業してやるんだから"
+    }
+  },
+  "Koharu_Lobby_4.ogg": {
+    "quote": {
+      "ja": "え、エッチなもの…?そ、そういうのはダメ!見つけたら全部没収消却!"
+    }
+  },
+  "Koharu_Lobby_5.ogg": {
+    "quote": {
+      "ja": "が、学生の身分で交際とかダメだから!そんなの不健全わ!キヴォトスではいけないことなの!"
+    }
+  },
+  "Koharu_LogIn_1.ogg": {
+    "quote": {
+      "ja": "あ…先生、おかえり"
+    }
+  },
+  "Koharu_LogIn_2.ogg": {
+    "quote": {
+      "ja": "待ってたよ、先生。"
+    }
+  },
+  "Koharu_MemorialLobby_1_1.ogg": {
+    "quote": {
+      "ja": "な、なに?"
+    }
+  },
+  "Koharu_MemorialLobby_1_2.ogg": {
+    "quote": {
+      "ja": "あ、あれ? これって、まさか…"
+    }
+  },
+  "Koharu_MemorialLobby_2_1.ogg": {
+    "quote": {
+      "ja": "べ、別に私、何も間違ったことは言ってないでしょ!?"
+    }
+  },
+  "Koharu_MemorialLobby_2_2.ogg": {
+    "quote": {
+      "ja": "待って!もしかしてこのままだと私、先生と…"
+    }
+  },
+  "Koharu_MemorialLobby_3.ogg": {
+    "quote": {
+      "ja": "こ、こういう展開、本で何度も見たことある。本当に…本当にあの流れに入っちゃうの!?"
+    }
+  },
+  "Koharu_MemorialLobby_4_1.ogg": {
+    "quote": {
+      "ja": "あ、あんなこととか、こんなこととかぁ……"
+    }
+  },
+  "Koharu_MemorialLobby_4_2.ogg": {
+    "quote": {
+      "ja": "はっ…!?ま、まさか…そんなことまでぇ…"
+    }
+  },
+  "Koharu_MemorialLobby_5_1.ogg": {
+    "quote": {
+      "ja": "つ、ついに本性を表したわね、先生!"
+    }
+  },
+  "Koharu_MemorialLobby_5_2.ogg": {
+    "quote": {
+      "ja": "やばいやばいやばい!ま、まだ覚悟とか、全然できてないのけど!"
+    }
+  },
+  "Koharu_Relationship_Up_1.ogg": {
+    "quote": {
+      "ja": "私はまだまだできないことだらけだけど…で、でも!これから努力するから!"
+    }
+  },
+  "Koharu_Relationship_Up_2.ogg": {
+    "quote": {
+      "ja": "もう、いつもそうやってからかって。でも、応援してくれて、ありがとう。"
+    }
+  },
+  "Koharu_Relationship_Up_3.ogg": {
+    "quote": {
+      "ja": "エッチなのはダメ…だけど…えっと…や、やっぱりダメ!"
+    }
+  },
+  "Koharu_Relationship_Up_4.ogg": {
+    "quote": {
+      "ja": "た、ただ生徒だから、先生と泣くのがいいだけで、他の意味はないんだから。うん!"
+    }
+  },
+  "Koharu_Season_Birthday.ogg": {
+    "quote": {
+      "ja": "わ、私の誕生日、覚えてたの…?うっ…ありがとう。まさか覚えてると思わなかった。ちょ、ちょっと嬉しいかも?"
+    }
+  },
+  "Koharu_Season_Birthday_Player.ogg": {
+    "quote": {
+      "ja": "先生の誕生日なんでしょ?今日くらい、少しゆっくりしても…や、やっぱり暇のなし、ちゃんと真面目に仕事して!"
+    }
+  },
+  "Koharu_Season_Halloween.ogg": {
+    "quote": {
+      "ja": "あめー? そんなのたっくに卒業したけど。あ、私はもっと大人の…な、なんでもない!"
+    }
+  },
+  "Koharu_Season_NewYear.ogg": {
+    "quote": {
+      "ja": "お正月なのに私といていいの?あ、私は別に構わないけど?"
+    }
+  },
+  "Koharu_Season_Xmas.ogg": {
+    "quote": {
+      "ja": "せ、聖なる夜を怪我すような不埒な行為は、全部禁止よ!先生、聞いてる?"
+    }
+  },
+  "Koharu_Tactic_Defeat_1.ogg": {
+    "quote": {
+      "ja": "あ、あ、負けちゃった…"
+    }
+  },
+  "Koharu_Tactic_Defeat_2.ogg": {
+    "quote": {
+      "ja": "あ、ごめんなさい…"
+    }
+  },
+  "Koharu_Tactic_In_1.ogg": {
+    "quote": {
+      "ja": "こ、これぐらいなら…"
+    }
+  },
+  "Koharu_Tactic_In_2.ogg": {
+    "quote": {
+      "ja": "わ、私にだってできるってばー!"
+    }
+  },
+  "Koharu_Tactic_Victory_1.ogg": {
+    "quote": {
+      "ja": "勝った!"
+    }
+  },
+  "Koharu_Tactic_Victory_2.ogg": {
+    "quote": {
+      "ja": "見た?これが私の実力よ!"
+    }
+  }
+}

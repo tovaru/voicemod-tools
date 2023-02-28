@@ -1,0 +1,382 @@
+{
+  "Hihumi_Battle_Buffed_1.ogg": {
+    "quote": {
+      "ja": "ありがとうございます!"
+    }
+  },
+  "Hihumi_Battle_BuffSelf_1.ogg": {
+    "quote": {
+      "ja": "はぁ-"
+    }
+  },
+  "Hihumi_Battle_Covered_1.ogg": {
+    "quote": {
+      "ja": "か、隠れました!"
+    }
+  },
+  "Hihumi_Battle_Damage_1.ogg": {
+    "quote": {
+      "ja": "うっ…ご、ごめんなさい…"
+    }
+  },
+  "Hihumi_Battle_Damage_2.ogg": {
+    "quote": {
+      "ja": "はぁっ!"
+    }
+  },
+  "Hihumi_Battle_Damage_3.ogg": {
+    "quote": {
+      "ja": "あっ!い、痛いです!"
+    }
+  },
+  "Hihumi_Battle_Defense_1.ogg": {
+    "quote": {
+      "ja": "あ、危ないところでした!"
+    }
+  },
+  "Hihumi_Battle_In_1.ogg": {
+    "quote": {
+      "ja": "さ、作戦スタートです!"
+    }
+  },
+  "Hihumi_Battle_In_2.ogg": {
+    "quote": {
+      "ja": "一緒なら、大丈夫です!"
+    }
+  },
+  "Hihumi_Battle_Move_1.ogg": {
+    "quote": {
+      "ja": "ペロロ様はどこにいるんだろう"
+    }
+  },
+  "Hihumi_Battle_Move_2.ogg": {
+    "quote": {
+      "ja": "この先は一体、どんなところなのでしょう"
+    }
+  },
+  "Hihumi_Battle_Recovery_1.ogg": {
+    "quote": {
+      "ja": "ありがとうございます!"
+    }
+  },
+  "Hihumi_Battle_Retire.ogg": {
+    "quote": {
+      "ja": "ま、まだやれるのに…"
+    }
+  },
+  "Hihumi_Battle_Shout_1.ogg": {
+    "quote": {
+      "ja": "えぇっ!"
+    }
+  },
+  "Hihumi_Battle_Shout_2.ogg": {
+    "quote": {
+      "ja": "やっー!"
+    }
+  },
+  "Hihumi_Battle_Shout_3.ogg": {
+    "quote": {
+      "ja": "やっ、ひゃ!"
+    }
+  },
+  "Hihumi_Battle_Supply.ogg": {
+    "quote": {
+      "ja": "本当にありがとうございます!"
+    }
+  },
+  "Hihumi_Battle_TacticalAction_1.ogg": {
+    "quote": {
+      "ja": "よいしょ!"
+    }
+  },
+  "Hihumi_Battle_TSA_1.ogg": {
+    "quote": {
+      "ja": "私に任せてください!"
+    }
+  },
+  "Hihumi_Battle_TSA_2.ogg": {
+    "quote": {
+      "ja": "補修事業部の美費、クルセイダーちゃん、よろしくお願いします!"
+    }
+  },
+  "Hihumi_Battle_Victory_1.ogg": {
+    "quote": {
+      "ja": "みんなの勝利です!"
+    }
+  },
+  "Hihumi_Battle_Victory_2.ogg": {
+    "quote": {
+      "ja": "やり遂げました!"
+    }
+  },
+  "Hihumi_Cafe_Act_1.ogg": {
+    "quote": {
+      "ja": "ペロロ様のグッズ…"
+    }
+  },
+  "Hihumi_Cafe_Act_2.ogg": {
+    "quote": {
+      "ja": "うふふ、どうかなー?"
+    }
+  },
+  "Hihumi_Cafe_Act_3.ogg": {
+    "quote": {
+      "ja": "今度はみんなと一緒に来るのもいいかも"
+    }
+  },
+  "Hihumi_Cafe_Act_4.ogg": {
+    "quote": {
+      "ja": "こういうのも楽しそうですね"
+    }
+  },
+  "Hihumi_Cafe_Act_5.ogg": {
+    "quote": {
+      "ja": "うーん…どうなんでしょう?"
+    }
+  },
+  "Hihumi_CommonSkill.ogg": {
+    "quote": {
+      "ja": "へーい!"
+    }
+  },
+  "Hihumi_ExSkill_1.ogg": {
+    "quote": {
+      "ja": "えっ?あれ!?どこ!?"
+    }
+  },
+  "Hihumi_ExSkill_2.ogg": {
+    "quote": {
+      "ja": "み、見つからない。どうしよう…"
+    }
+  },
+  "Hihumi_ExSkill_3.ogg": {
+    "quote": {
+      "ja": "ここに入れてたはずなのに…"
+    }
+  },
+  "Hihumi_ExSkill_Level_1.ogg": {
+    "quote": {
+      "ja": "ヘロロ様の出番です!"
+    }
+  },
+  "Hihumi_ExSkill_Level_2.ogg": {
+    "quote": {
+      "ja": "うおー!作動しちゃいました!"
+    }
+  },
+  "Hihumi_ExSkill_Level_3.ogg": {
+    "quote": {
+      "ja": "ペロロ様、お願いします!"
+    }
+  },
+  "Hihumi_ExWeapon_Get.ogg": {
+    "quote": {
+      "ja": "この…この武器は…まさか…これで私は、もう少し自信を持っても大丈夫ですよね!"
+    }
+  },
+  "Hihumi_Formation_In_1.ogg": {
+    "quote": {
+      "ja": "さ、再生を尽くします"
+    }
+  },
+  "Hihumi_Formation_In_2.ogg": {
+    "quote": {
+      "ja": "こ、怖くない…怖くない…"
+    }
+  },
+  "Hihumi_Formation_Select.ogg": {
+    "quote": {
+      "ja": "わっ!"
+    }
+  },
+  "Hihumi_Gachaget.ogg": {
+    "quote": {
+      "ja": "あはは…至らない私ですが、よろしくお願いします。"
+    }
+  },
+  "Hihumi_Growup_1.ogg": {
+    "quote": {
+      "ja": "一歩前進できた感じがします"
+    }
+  },
+  "Hihumi_Growup_2.ogg": {
+    "quote": {
+      "ja": "うわぁ、変われたみたいです"
+    }
+  },
+  "Hihumi_Growup_3.ogg": {
+    "quote": {
+      "ja": "これも全部、先生のおかげです"
+    }
+  },
+  "Hihumi_Growup_4.ogg": {
+    "quote": {
+      "ja": "ありがとうございます、先生"
+    }
+  },
+  "Hihumi_Lobby_1.ogg": {
+    "quote": {
+      "ja": "最善を尽かします"
+    }
+  },
+  "Hihumi_Lobby_2.ogg": {
+    "quote": {
+      "ja": "これですか…?これはペロロ様です!可愛いでしょ!"
+    }
+  },
+  "Hihumi_Lobby_3.ogg": {
+    "quote": {
+      "ja": "悩みですか…?そうですね…私は…その、他の人と比べて、平凡すぎなように思いませんか?"
+    }
+  },
+  "Hihumi_Lobby_4.ogg": {
+    "quote": {
+      "ja": "私に何かできることはありませんか?"
+    }
+  },
+  "Hihumi_Lobby_5.ogg": {
+    "quote": {
+      "ja": "うふふ、そんなに降っても何も出ませんから。"
+    }
+  },
+  "Hihumi_LogIn_1.ogg": {
+    "quote": {
+      "ja": "先生、よろしくお願いします"
+    }
+  },
+  "Hihumi_LogIn_2.ogg": {
+    "quote": {
+      "ja": "あっ、先生、行ってきましたか?"
+    }
+  },
+  "Hihumi_MemorialLobby_1_1.ogg": {
+    "quote": {
+      "ja": "次はどこに行ってみましょうか"
+    }
+  },
+  "Hihumi_MemorialLobby_1_2.ogg": {
+    "quote": {
+      "ja": "あっち…?うーん、でしたら、あちらはどうですか?"
+    }
+  },
+  "Hihumi_MemorialLobby_2_1.ogg": {
+    "quote": {
+      "ja": "はい、どこでも大丈夫です"
+    }
+  },
+  "Hihumi_MemorialLobby_2_2.ogg": {
+    "quote": {
+      "ja": "先生と一緒にいられるなら"
+    }
+  },
+  "Hihumi_MemorialLobby_3_1.ogg": {
+    "quote": {
+      "ja": "先生、あそこを見てください。"
+    }
+  },
+  "Hihumi_MemorialLobby_3_2.ogg": {
+    "quote": {
+      "ja": "あっちも! あっ、こっちも!"
+    }
+  },
+  "Hihumi_MemorialLobby_4_1.ogg": {
+    "quote": {
+      "ja": "いつも見てる街なのに"
+    }
+  },
+  "Hihumi_MemorialLobby_4_2.ogg": {
+    "quote": {
+      "ja": "なんでこんなに違って見えるんでしょうか"
+    }
+  },
+  "Hihumi_MemorialLobby_5_1.ogg": {
+    "quote": {
+      "ja": "ん?いつまでここで休憩するつもりですか?"
+    }
+  },
+  "Hihumi_MemorialLobby_5_2.ogg": {
+    "quote": {
+      "ja": "さあ、もっと色々見てまわりましょうよ!"
+    }
+  },
+  "Hihumi_MemorialLobby_6.ogg": {
+    "quote": {
+      "ja": "はい? その角度から見える景色がいいんですか…?"
+    }
+  },
+  "Hihumi_Relationship_Up_1.ogg": {
+    "quote": {
+      "ja": "先生、いつも頼りにしてます。"
+    }
+  },
+  "Hihumi_Relationship_Up_2.ogg": {
+    "quote": {
+      "ja": "あの、その…もうちょっとだけ側にいてください。"
+    }
+  },
+  "Hihumi_Relationship_Up_3.ogg": {
+    "quote": {
+      "ja": "今の私なら…もっと勇気を出せるかもしれません"
+    }
+  },
+  "Hihumi_Relationship_Up_4.ogg": {
+    "quote": {
+      "ja": "先生は本当に…特別な人です"
+    }
+  },
+  "Hihumi_Season_Birthday.ogg": {
+    "quote": {
+      "ja": "先生!誕生日をお祝いしてくれて、ありがとうございます!私、本当に嬉しいです!"
+    }
+  },
+  "Hihumi_Season_Birthday_Player.ogg": {
+    "quote": {
+      "ja": "先生にいろんなことを教えていただいて、本当に幸せです。これからも頑張ります。それが私にできる、最高のプレゼントだから"
+    }
+  },
+  "Hihumi_Season_Halloween.ogg": {
+    "quote": {
+      "ja": "わっ!びっくりした!ああ、今日はハロウィンですね!"
+    }
+  },
+  "Hihumi_Season_NewYear.ogg": {
+    "quote": {
+      "ja": "あ、明けましておめでとうございます。今年も先生と一緒に一、生懸命頑張ります。"
+    }
+  },
+  "Hihumi_Season_Xmas.ogg": {
+    "quote": {
+      "ja": "メリークリスマス! 聖誕祭です。トリニティでは、一番の特別な日です。そして…私にとっても、一番特別です。"
+    }
+  },
+  "Hihumi_Tactic_Defeat_1.ogg": {
+    "quote": {
+      "ja": "力不足で、ごめんなさい…"
+    }
+  },
+  "Hihumi_Tactic_Defeat_2.ogg": {
+    "quote": {
+      "ja": "肩に力が入りすぎた…かもしれないです"
+    }
+  },
+  "Hihumi_Tactic_In_1.ogg": {
+    "quote": {
+      "ja": "みんなで頑張りましょう!"
+    }
+  },
+  "Hihumi_Tactic_In_2.ogg": {
+    "quote": {
+      "ja": "みんな、ファイトですよ!"
+    }
+  },
+  "Hihumi_Tactic_Victory_1.ogg": {
+    "quote": {
+      "ja": "わぁ、先生のおかげで勝てました!"
+    }
+  },
+  "Hihumi_Tactic_Victory_2.ogg": {
+    "quote": {
+      "ja": "最高の戦いでした!"
+    }
+  }
+}

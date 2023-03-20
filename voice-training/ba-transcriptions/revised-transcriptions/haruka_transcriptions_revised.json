@@ -1,0 +1,322 @@
+{
+  "Haruka_Battle_Buffed_1.ogg": {
+    "quote": {
+      "ja": "あ、ありがとうございます！"
+    }
+  },
+  "Haruka_Battle_BuffSelf_1.ogg": {
+    "quote": {
+      "ja": "や、やー！"
+    }
+  },
+  "Haruka_Battle_Damage_1.ogg": {
+    "quote": {
+      "ja": "はぁぁっ！"
+    }
+  },
+  "Haruka_Battle_Damage_2.ogg": {
+    "quote": {
+      "ja": "うっ！"
+    }
+  },
+  "Haruka_Battle_Damage_3.ogg": {
+    "quote": {
+      "ja": "くっ！"
+    }
+  },
+  "Haruka_Battle_Defense_1.ogg": {
+    "quote": {
+      "ja": "い、言いたくありません。"
+    }
+  },
+  "Haruka_Battle_In_1.ogg": {
+    "quote": {
+      "ja": "で、では、すべて消してしまいましょう！"
+    }
+  },
+  "Haruka_Battle_In_2.ogg": {
+    "quote": {
+      "ja": "で、では、気を付けて、やっつけに行きましょう。"
+    }
+  },
+  "Haruka_Battle_Move_1.ogg": {
+    "quote": {
+      "ja": "め、命令通り…全部、やっつけました。"
+    }
+  },
+  "Haruka_Battle_Move_2.ogg": {
+    "quote": {
+      "ja": "ま、まだです！まだやれます！"
+    }
+  },
+  "Haruka_Battle_Recovery_1.ogg": {
+    "quote": {
+      "ja": "わ、私にくれるんですか？"
+    }
+  },
+  "Haruka_Battle_Retire.ogg": {
+    "quote": {
+      "ja": "うぅ……だ、だめなのに……"
+    }
+  },
+  "Haruka_Battle_Shout_1.ogg": {
+    "quote": {
+      "ja": "えぇい！"
+    }
+  },
+  "Haruka_Battle_Shout_2.ogg": {
+    "quote": {
+      "ja": "いやっ！"
+    }
+  },
+  "Haruka_Battle_Shout_3.ogg": {
+    "quote": {
+      "ja": "ええっ！"
+    }
+  },
+  "Haruka_Battle_TacticalAction_1.ogg": {
+    "quote": {
+      "ja": "い、いきます！"
+    }
+  },
+  "Haruka_Battle_TSA_1.ogg": {
+    "quote": {
+      "ja": "う、埋めちゃっていいんですよね？"
+    }
+  },
+  "Haruka_Battle_TSA_2.ogg": {
+    "quote": {
+      "ja": "ま、任せてください。全部片付けちゃいます。"
+    }
+  },
+  "Haruka_Battle_Victory_1.ogg": {
+    "quote": {
+      "ja": "ご希望でしたら、誰でも排除しますから。"
+    }
+  },
+  "Haruka_Battle_Victory_2.ogg": {
+    "quote": {
+      "ja": "え、えっと…。私、大丈夫でした？"
+    }
+  },
+  "Haruka_Cafe_Act_1.ogg": {
+    "quote": {
+      "ja": "あ、あの…。えへへ…。わ、私が手伝うこと、ありますか？"
+    }
+  },
+  "Haruka_Cafe_Act_2.ogg": {
+    "quote": {
+      "ja": "せ、先生。あ、りが…とうござい……い、いえ！すみません！"
+    }
+  },
+  "Haruka_Cafe_monolog_1.ogg": {
+    "quote": {
+      "ja": "隠れる場所はどこに…。"
+    }
+  },
+  "Haruka_Cafe_monolog_2.ogg": {
+    "quote": {
+      "ja": "ここにいても、いいんでしょうか？"
+    }
+  },
+  "Haruka_Cafe_monolog_3.ogg": {
+    "quote": {
+      "ja": "人が多いところは、苦手…隠れたい…。"
+    }
+  },
+  "Haruka_CommonSkill.ogg": {
+    "quote": {
+      "ja": "あ、違う……許さない。"
+    }
+  },
+  "Haruka_ExSkill_1.ogg": {
+    "quote": {
+      "ja": "い、行きます！"
+    }
+  },
+  "Haruka_ExSkill_2.ogg": {
+    "quote": {
+      "ja": "と、とりあえず撃ちます！"
+    }
+  },
+  "Haruka_ExSkill_3.ogg": {
+    "quote": {
+      "ja": "ハルカ、行きます！"
+    }
+  },
+  "Haruka_ExSkill_Level_1.ogg": {
+    "quote": {
+      "ja": "う、うわあああ！"
+    }
+  },
+  "Haruka_ExSkill_Level_2.ogg": {
+    "quote": {
+      "ja": "はぁぁっ！"
+    }
+  },
+  "Haruka_ExSkill_Level_3.ogg": {
+    "quote": {
+      "ja": "死んでください死んでください死んでください！"
+    }
+  },
+  "Haruka_ExWeapon_Get.ogg": {
+    "quote": {
+      "ja": "先生が嫌いなものは、私が…全部消しちゃいます！"
+    }
+  },
+  "Haruka_Formation_In_1.ogg": {
+    "quote": {
+      "ja": "あ……わ、私ですか……？"
+    }
+  },
+  "Haruka_Formation_In_2.ogg": {
+    "quote": {
+      "ja": "ほ、本当に私なんですか？"
+    }
+  },
+  "Haruka_Formation_Select.ogg": {
+    "quote": {
+      "ja": "あ…あっ！"
+    }
+  },
+  "Haruka_Gachaget.ogg": {
+    "quote": {
+      "ja": "あの、私が来てもよかったんでしょうか？邪魔だと思いましたら、い、いつでもおっしゃってください。"
+    }
+  },
+  "Haruka_Growup_1.ogg": {
+    "quote": {
+      "ja": "わ、私なんかには、もったいないです。"
+    }
+  },
+  "Haruka_Growup_2.ogg": {
+    "quote": {
+      "ja": "どうして私に、ここまでよくしてくれるんですか？"
+    }
+  },
+  "Haruka_Growup_3.ogg": {
+    "quote": {
+      "ja": "お、恩返ししなきゃ。必ず…絶対に…何が何でも、恩返ししますから。"
+    }
+  },
+  "Haruka_Growup_4.ogg": {
+    "quote": {
+      "ja": "い、今の私なら…お期待に、答えられるかも！"
+    }
+  },
+  "Haruka_Lobby_1.ogg": {
+    "quote": {
+      "ja": "はい？私が必要ですか？え、うう、そ、そんな…。"
+    }
+  },
+  "Haruka_Lobby_2.ogg": {
+    "quote": {
+      "ja": "先生の役に立てるように、全力を尽くしますから。"
+    }
+  },
+  "Haruka_Lobby_3.ogg": {
+    "quote": {
+      "ja": "ありがとうございます、先生。"
+    }
+  },
+  "Haruka_Lobby_4.ogg": {
+    "quote": {
+      "ja": "はい？ そんなに緊張しないで…ですか？バ、バレてましたか？！"
+    }
+  },
+  "Haruka_Lobby_5.ogg": {
+    "quote": {
+      "ja": "（死にたい死にたい死にたい死にたい死にたい死にたい。）"
+    }
+  },
+  "Haruka_LogIn_1.ogg": {
+    "quote": {
+      "ja": "あ、あの。私のこと呼びましたか？何かの勘違いではないですか？"
+    }
+  },
+  "Haruka_LogIn_2.ogg": {
+    "quote": {
+      "ja": "私なんかがここにいてもいいんでしょうか？"
+    }
+  },
+  "Haruka_Relationship_Up_1.ogg": {
+    "quote": {
+      "ja": "先生、本当に、ありがとうございます。"
+    }
+  },
+  "Haruka_Relationship_Up_2.ogg": {
+    "quote": {
+      "ja": "先生には、恩返ししたい気持ちで、いっぱいです。"
+    }
+  },
+  "Haruka_Relationship_Up_3.ogg": {
+    "quote": {
+      "ja": "先生。消したいものがあったら、私に教えてください。ぜ、全部…消しますから！"
+    }
+  },
+  "Haruka_Relationship_Up_4.ogg": {
+    "quote": {
+      "ja": "あ、そ、その……ありがとうございます、先生。"
+    }
+  },
+  "Haruka_Season_Birthday.ogg": {
+    "quote": {
+      "ja": "い、生きててすみません！は、はい？お、おめでとう…ですか？"
+    }
+  },
+  "Haruka_Season_Birthday_Player.ogg": {
+    "quote": {
+      "ja": "お、お誕生日、おめでとうございます！も、もちろん、私なんかがお祝いしたところで、気持ち悪いだけだと思いますが。"
+    }
+  },
+  "Haruka_Season_Halloween.ogg": {
+    "quote": {
+      "ja": "ああ。今日ってハロウィーンでしたか。急にお化けコスプレの人たちが群がってきたから、撃っちゃったんですけど…。すみません。"
+    }
+  },
+  "Haruka_Season_NewYear.ogg": {
+    "quote": {
+      "ja": "あ、明けましておめでとうございます！今年も、先生と一緒に…ぜ、全部消しちゃいましょうねっ。"
+    }
+  },
+  "Haruka_Season_Xmas.ogg": {
+    "quote": {
+      "ja": "今年のクリスマスも、先生と一緒で…嬉しいです。も、もちろん、私にそんな資格があるかどうかわかりませんが。"
+    }
+  },
+  "Haruka_Tactic_Defeat_1.ogg": {
+    "quote": {
+      "ja": "ごめんなさいごめんなさいごめんなさい…"
+    }
+  },
+  "Haruka_Tactic_Defeat_2.ogg": {
+    "quote": {
+      "ja": "わ、私がちゃんとしなかったせいで…"
+    }
+  },
+  "Haruka_Tactic_In_1.ogg": {
+    "quote": {
+      "ja": "はい。私がすべて消しちゃいます。"
+    }
+  },
+  "Haruka_Tactic_In_2.ogg": {
+    "quote": {
+      "ja": "は、はい。こ、殺します、全員。"
+    }
+  },
+  "Haruka_Tactic_Victory_1.ogg": {
+    "quote": {
+      "ja": "はぁ。言われた通り、すべてやり遂げました。"
+    }
+  },
+  "Haruka_Tactic_Victory_2.ogg": {
+    "quote": {
+      "ja": "い、一生懸命頑張りました。"
+    }
+  },
+  "Haruka_Title.ogg": {
+    "quote": {
+      "ja": "ブ、ブルー、アークアイブ……"
+    }
+  }
+}
